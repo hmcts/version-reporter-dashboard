@@ -6,7 +6,7 @@ import HelloWorld from './components/Dashboard.vue'
   <div class="vrs_header">
     <h1>Version Reporter Dashboard</h1>
   </div>
-  <HelloWorld msg="[-WIP-]"/>
+  <HelloWorld msg="[- WIP -]"/>
 </template>
 
 <style scoped>
