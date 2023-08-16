@@ -1,4 +1,4 @@
-name: Deploy
+name: VRS GitHub Pages
 
 on:
   pull_request:
