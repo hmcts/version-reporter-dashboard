@@ -581,8 +581,7 @@ body .wrapper {
     width: auto;
     justify-content: space-around;
     padding: 5px;
-
-    min-height: 72px;
+    min-height: 71px;
 }
 
 .logo-img img {
@@ -614,7 +613,7 @@ body .wrapper {
 }
 
 .content {
-    padding: 30px 15px;
+    padding: 20px 5px;
     min-height: calc(100% - 123px);
 }
 
@@ -623,7 +622,7 @@ body .wrapper {
     min-height: 245px;
 }
 
-.chart-legend{
+.chart-legend {
     font-size: small;
 }
 
@@ -693,6 +692,46 @@ body .wrapper {
     .navbar {
         min-height: 75px;
     }
+}
+
+.nav {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+ .nav-item {
+     width: 100%;
+     text-align: center;
+     clear: both;
+     border-bottom: 1px solid #8080804a;
+}
+
+.vertical-menu {
+    width: 100%;
+    display: inline-block;
+}
+
+.vertical-menu a {
+    color: #dfdfedab;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+}
+
+.vertical-menu a:hover {
+    background-color: #1d70b85e;
+    color: white;
+}
+
+.vertical-menu a.active {
+    background-color: #1d70b8;
+    color: white;
 }
 
 .container-fluid {

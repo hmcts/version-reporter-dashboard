@@ -12,7 +12,7 @@ defineProps({
     <div id="center-section-top" class="navbar navbar-light">
       <div class="container-fluid hmcts-title">
         <div class="h3">HM Courts &amp; Tribunal Service</div>
-        <div class="h7">Version Reporter Service</div>
+        <div class="h7">Version Reporter Dashboard</div>
       </div>
     </div>
     <div id="center-section-middle" class="content">
