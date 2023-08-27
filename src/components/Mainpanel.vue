@@ -1,9 +1,9 @@
 <script setup>
-import Dashboard from './Dashboard.vue'
+import { RouterView } from "vue-router";
 
 defineProps({
   reportName: String,
-})
+});
 
 </script>
 
@@ -18,38 +18,7 @@ defineProps({
     <div id="center-section-middle" class="content">
       <div class="container-fluid">
         <div>
-          <div class="row">
-            <div class="col-12">
-              <div class="card">
-                <div class="card-header">
-                  <h4 class="card-title">
-                    [[ Report Title ]]
-                  </h4>
-                  <p class="card-category">
-                    [[ Report metadata ]]
-                  </p>
-                </div>
-                <div class="card-body">
-                  <div class="vrs-report">
-                    <Dashboard />
-                  </div>
-                  <div class="footer">
-                    <div class="chart-legend">
-                      <div>
-                        <i class="fa fa-circle text-info"></i> Ok
-                        <i class="fa fa-circle text-warning"></i> Review
-                        <i class="fa fa-circle text-danger"></i> Upgrade
-                      </div>
-                    </div>
-                    <hr>
-                    <div class="stats">
-                      <span><i class="fa fa-refresh"></i> Updated [x] [minutes] ago</span></div>
-                    <div class="pull-right"></div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+          <RouterView />
         </div>
       </div>
     </div>
@@ -70,7 +39,7 @@ defineProps({
 
 <script>
 export default {
-  name: "MainPanel"
+  name: "MainPanel",
 }
 </script>
 

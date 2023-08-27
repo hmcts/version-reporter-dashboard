@@ -1,15 +1,8 @@
 <script setup>
-import {ref} from 'vue'
 
-defineProps({
-  msg: String,
-})
-
-const count = ref(0)
 </script>
 
 <template>
-
   <div class="dashboard">
     <div style="display: flex;
     justify-content: center;
@@ -26,6 +19,8 @@ const count = ref(0)
       <p class="read-the-docs">This is currently a work-in-progress and would be updated often</p>
     </div>
   </div>
-
 </template>
 
+<style lang="scss" scoped>
+
+</style>
