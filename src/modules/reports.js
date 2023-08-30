@@ -8,7 +8,7 @@ const reports = {
         return getMetadata(reportName);
     },
     getAllRecords: async (reportName) => {
-        const reportUrl = `${window.location.host}/version-reporter-dashboard/reports/${reportName}.json`;
+        const reportUrl = `${window.location.host}/reports/${reportName}.json`;
         try {
             return axios.get(reportUrl, {responseType: 'json'});
             // return response.data;
