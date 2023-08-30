@@ -68,7 +68,6 @@ const meta = [
             "resource",
             "environment",
             "latest",
-            "released",
             "installed",
             "desired",
             "verdict"
