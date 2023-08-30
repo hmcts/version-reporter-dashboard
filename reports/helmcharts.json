@@ -16,12 +16,7 @@
         "id": "1ABD0FB6-E1FF-4CB1-BCD1-191CAB703E8C",
         "environment": "",
         "createdOn": "2023-08-30 15:40:04",
-        "lastUpdated": "2023-08-30 15:40:04",
-        "_rid": "CgIaAO+wOZFpAwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAO+wOZE=/docs/CgIaAO+wOZFpAwAAAAAAAA==/",
-        "_etag": "\"e00099e7-0000-1100-0000-64ef54c50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693406405
+        "lastUpdated": "2023-08-30 15:40:04"
     },
     {
         "chart": "kured",
@@ -40,12 +35,7 @@
         "id": "2EE92717-42FF-4D50-83D7-2F6F9E252FFE",
         "environment": "",
         "createdOn": "2023-08-30 15:40:05",
-        "lastUpdated": "2023-08-30 15:40:05",
-        "_rid": "CgIaAO+wOZFqAwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAO+wOZE=/docs/CgIaAO+wOZFqAwAAAAAAAA==/",
-        "_etag": "\"e0009be7-0000-1100-0000-64ef54c50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693406405
+        "lastUpdated": "2023-08-30 15:40:05"
     },
     {
         "chart": "traefik",
@@ -64,11 +54,6 @@
         "id": "568C31C6-B686-4631-82ED-D1AE7B4D3629",
         "environment": "",
         "createdOn": "2023-08-30 15:40:05",
-        "lastUpdated": "2023-08-30 15:40:05",
-        "_rid": "CgIaAO+wOZFrAwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAO+wOZE=/docs/CgIaAO+wOZFrAwAAAAAAAA==/",
-        "_etag": "\"e0009ee7-0000-1100-0000-64ef54c60000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693406406
+        "lastUpdated": "2023-08-30 15:40:05"
     }
 ]

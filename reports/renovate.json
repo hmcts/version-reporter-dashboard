@@ -12,12 +12,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 6,
-        "_rid": "CgIaAM6YVKCOcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCOcgAAAAAAAA==/",
-        "_etag": "\"6e01534e-0000-1100-0000-64ef75b30000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414835
+        "daysOpened": 6
     },
     {
         "repository": "cnp-flux-config",
@@ -32,12 +27,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 12,
-        "_rid": "CgIaAM6YVKCPcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCPcgAAAAAAAA==/",
-        "_etag": "\"6e01544e-0000-1100-0000-64ef75b30000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414835
+        "daysOpened": 12
     },
     {
         "repository": "sds-flux-config",
@@ -52,12 +42,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 12,
-        "_rid": "CgIaAM6YVKCQcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCQcgAAAAAAAA==/",
-        "_etag": "\"6e01564e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 12
     },
     {
         "repository": "cnp-flux-config",
@@ -72,12 +57,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 12,
-        "_rid": "CgIaAM6YVKCRcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCRcgAAAAAAAA==/",
-        "_etag": "\"6e01574e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 12
     },
     {
         "repository": "jenkins-webhook-relay",
@@ -92,12 +72,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 5,
-        "_rid": "CgIaAM6YVKCScgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCScgAAAAAAAA==/",
-        "_etag": "\"6e01584e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 5
     },
     {
         "repository": "cnp-flux-config",
@@ -112,12 +87,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 5,
-        "_rid": "CgIaAM6YVKCTcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCTcgAAAAAAAA==/",
-        "_etag": "\"6e01594e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 5
     },
     {
         "repository": "sds-flux-config",
@@ -132,12 +102,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 5,
-        "_rid": "CgIaAM6YVKCUcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCUcgAAAAAAAA==/",
-        "_etag": "\"6e015a4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 5
     },
     {
         "repository": "hmi-apim-infrastructures",
@@ -152,12 +117,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 0,
-        "_rid": "CgIaAM6YVKCVcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCVcgAAAAAAAA==/",
-        "_etag": "\"6e015b4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 0
     },
     {
         "repository": "sds-flux-config",
@@ -172,12 +132,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 6,
-        "_rid": "CgIaAM6YVKCWcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCWcgAAAAAAAA==/",
-        "_etag": "\"6e015d4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 6
     },
     {
         "repository": "sds-flux-config",
@@ -192,12 +147,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 6,
-        "_rid": "CgIaAM6YVKCXcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCXcgAAAAAAAA==/",
-        "_etag": "\"6e015e4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 6
     },
     {
         "repository": "sds-flux-config",
@@ -212,12 +162,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 1,
-        "_rid": "CgIaAM6YVKCYcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCYcgAAAAAAAA==/",
-        "_etag": "\"6e01604e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 1
     },
     {
         "repository": "pre-portal",
@@ -232,12 +177,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 13,
-        "_rid": "CgIaAM6YVKCZcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCZcgAAAAAAAA==/",
-        "_etag": "\"6e01614e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 13
     },
     {
         "repository": "chart-pact-broker",
@@ -252,12 +192,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 12,
-        "_rid": "CgIaAM6YVKCacgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCacgAAAAAAAA==/",
-        "_etag": "\"6e01624e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 12
     },
     {
         "repository": "em-icp-api",
@@ -272,12 +207,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 14,
-        "_rid": "CgIaAM6YVKCbcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCbcgAAAAAAAA==/",
-        "_etag": "\"6e01634e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 14
     },
     {
         "repository": "pcq-frontend",
@@ -292,12 +222,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 5,
-        "_rid": "CgIaAM6YVKCccgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCccgAAAAAAAA==/",
-        "_etag": "\"6e01644e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 5
     },
     {
         "repository": "lau-frontend",
@@ -312,12 +237,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 5,
-        "_rid": "CgIaAM6YVKCdcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCdcgAAAAAAAA==/",
-        "_etag": "\"6e01654e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 5
     },
     {
         "repository": "pcq-frontend",
@@ -332,12 +252,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 4,
-        "_rid": "CgIaAM6YVKCecgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCecgAAAAAAAA==/",
-        "_etag": "\"6e01664e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 4
     },
     {
         "repository": "lau-frontend",
@@ -352,12 +267,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 1,
-        "_rid": "CgIaAM6YVKCfcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCfcgAAAAAAAA==/",
-        "_etag": "\"6e01674e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 1
     },
     {
         "repository": "civil-ccd-definition",
@@ -372,12 +282,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 3,
-        "_rid": "CgIaAM6YVKCgcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCgcgAAAAAAAA==/",
-        "_etag": "\"6e01684e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 3
     },
     {
         "repository": "idam-slack-help-bot",
@@ -392,12 +297,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 13,
-        "_rid": "CgIaAM6YVKChcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKChcgAAAAAAAA==/",
-        "_etag": "\"6e016b4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 13
     },
     {
         "repository": "sds-toffee-frontend",
@@ -412,12 +312,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 19,
-        "_rid": "CgIaAM6YVKCicgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCicgAAAAAAAA==/",
-        "_etag": "\"6e016c4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 19
     },
     {
         "repository": "azure-custom-roles",
@@ -432,12 +327,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 0,
-        "_rid": "CgIaAM6YVKCjcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCjcgAAAAAAAA==/",
-        "_etag": "\"6e016f4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 0
     },
     {
         "repository": "am-role-assignment-refresh-batch",
@@ -452,12 +342,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 5,
-        "_rid": "CgIaAM6YVKCkcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCkcgAAAAAAAA==/",
-        "_etag": "\"6e01714e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 5
     },
     {
         "repository": "pre-network",
@@ -472,12 +357,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 6,
-        "_rid": "CgIaAM6YVKClcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKClcgAAAAAAAA==/",
-        "_etag": "\"6e01724e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 6
     },
     {
         "repository": "idam-hmcts-access",
@@ -492,12 +372,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 0,
-        "_rid": "CgIaAM6YVKCmcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCmcgAAAAAAAA==/",
-        "_etag": "\"6e01734e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 0
     },
     {
         "repository": "idam-slack-help-bot",
@@ -512,12 +387,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 13,
-        "_rid": "CgIaAM6YVKCncgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCncgAAAAAAAA==/",
-        "_etag": "\"6e01744e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 13
     },
     {
         "repository": "rse-gradle-java-plugin",
@@ -532,12 +402,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 2,
-        "_rid": "CgIaAM6YVKCocgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCocgAAAAAAAA==/",
-        "_etag": "\"6e01754e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 2
     },
     {
         "repository": "idam-slack-help-bot",
@@ -552,12 +417,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 12,
-        "_rid": "CgIaAM6YVKCpcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCpcgAAAAAAAA==/",
-        "_etag": "\"6e01784e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 12
     },
     {
         "repository": "rse-gradle-java-plugin",
@@ -572,12 +432,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 1,
-        "_rid": "CgIaAM6YVKCqcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCqcgAAAAAAAA==/",
-        "_etag": "\"6e01794e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 1
     },
     {
         "repository": "idam-slack-help-bot",
@@ -592,12 +447,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 12,
-        "_rid": "CgIaAM6YVKCrcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCrcgAAAAAAAA==/",
-        "_etag": "\"6e017a4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 12
     },
     {
         "repository": "pre-recorded-evidence",
@@ -612,12 +462,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 16,
-        "_rid": "CgIaAM6YVKCscgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCscgAAAAAAAA==/",
-        "_etag": "\"6e017c4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 16
     },
     {
         "repository": "em-icp-api",
@@ -632,12 +477,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 6,
-        "_rid": "CgIaAM6YVKCtcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCtcgAAAAAAAA==/",
-        "_etag": "\"6e017d4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 6
     },
     {
         "repository": "jps-judicial-payment-frontend",
@@ -652,12 +492,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 1,
-        "_rid": "CgIaAM6YVKCucgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCucgAAAAAAAA==/",
-        "_etag": "\"6e017e4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 1
     },
     {
         "repository": "idam-slack-help-bot",
@@ -672,12 +507,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 12,
-        "_rid": "CgIaAM6YVKCvcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCvcgAAAAAAAA==/",
-        "_etag": "\"6e01814e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 12
     },
     {
         "repository": "idam-slack-help-bot",
@@ -692,12 +522,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 13,
-        "_rid": "CgIaAM6YVKCwcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCwcgAAAAAAAA==/",
-        "_etag": "\"6e01824e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 13
     },
     {
         "repository": "idam-slack-help-bot",
@@ -712,12 +537,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 12,
-        "_rid": "CgIaAM6YVKCxcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCxcgAAAAAAAA==/",
-        "_etag": "\"6e01834e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 12
     },
     {
         "repository": "idam-slack-help-bot",
@@ -732,12 +552,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 12,
-        "_rid": "CgIaAM6YVKCycgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCycgAAAAAAAA==/",
-        "_etag": "\"6e01844e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 12
     },
     {
         "repository": "em-icp-api",
@@ -752,12 +567,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 11,
-        "_rid": "CgIaAM6YVKCzcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKCzcgAAAAAAAA==/",
-        "_etag": "\"6e01854e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 11
     },
     {
         "repository": "nodejs-info-provider",
@@ -772,12 +582,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 19,
-        "_rid": "CgIaAM6YVKC0cgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKC0cgAAAAAAAA==/",
-        "_etag": "\"6e01864e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 19
     },
     {
         "repository": "pre-backend-api",
@@ -792,12 +597,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 19,
-        "_rid": "CgIaAM6YVKC1cgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKC1cgAAAAAAAA==/",
-        "_etag": "\"6e01874e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 19
     },
     {
         "repository": "em-icp-api",
@@ -812,12 +612,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 14,
-        "_rid": "CgIaAM6YVKC2cgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKC2cgAAAAAAAA==/",
-        "_etag": "\"6e01884e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 14
     },
     {
         "repository": "aks-sds-deploy",
@@ -832,12 +627,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 2,
-        "_rid": "CgIaAM6YVKC3cgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKC3cgAAAAAAAA==/",
-        "_etag": "\"6e01894e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 2
     },
     {
         "repository": "pre-backend-api",
@@ -852,12 +642,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 19,
-        "_rid": "CgIaAM6YVKC4cgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKC4cgAAAAAAAA==/",
-        "_etag": "\"6e018c4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 19
     },
     {
         "repository": "idam-hmcts-access",
@@ -872,12 +657,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 0,
-        "_rid": "CgIaAM6YVKC5cgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKC5cgAAAAAAAA==/",
-        "_etag": "\"6e018d4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 0
     },
     {
         "repository": "rse-gradle-java-plugin",
@@ -892,12 +672,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 1,
-        "_rid": "CgIaAM6YVKC6cgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKC6cgAAAAAAAA==/",
-        "_etag": "\"6e018f4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 1
     },
     {
         "repository": "hmi-apim-infrastructures",
@@ -912,12 +687,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 0,
-        "_rid": "CgIaAM6YVKC7cgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKC7cgAAAAAAAA==/",
-        "_etag": "\"6e01904e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 0
     },
     {
         "repository": "payments-java-client",
@@ -932,12 +702,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 6,
-        "_rid": "CgIaAM6YVKC8cgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKC8cgAAAAAAAA==/",
-        "_etag": "\"6e01914e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 6
     },
     {
         "repository": "am-org-role-mapping-service",
@@ -952,12 +717,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 16,
-        "_rid": "CgIaAM6YVKC9cgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKC9cgAAAAAAAA==/",
-        "_etag": "\"6e01924e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 16
     },
     {
         "repository": "wa-case-event-handler",
@@ -972,12 +732,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 16,
-        "_rid": "CgIaAM6YVKC+cgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKC+cgAAAAAAAA==/",
-        "_etag": "\"6e01934e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 16
     },
     {
         "repository": "cnp-jenkins-library",
@@ -992,12 +747,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 2,
-        "_rid": "CgIaAM6YVKC-cgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKC-cgAAAAAAAA==/",
-        "_etag": "\"6e01944e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 2
     },
     {
         "repository": "idam-forgerock-http-client",
@@ -1012,12 +762,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 11,
-        "_rid": "CgIaAM6YVKDAcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDAcgAAAAAAAA==/",
-        "_etag": "\"6e01974e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 11
     },
     {
         "repository": "idam-forgerock-http-client",
@@ -1032,12 +777,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 10,
-        "_rid": "CgIaAM6YVKDBcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDBcgAAAAAAAA==/",
-        "_etag": "\"6e01994e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 10
     },
     {
         "repository": "idam-forgerock-http-client",
@@ -1052,12 +792,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 10,
-        "_rid": "CgIaAM6YVKDCcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDCcgAAAAAAAA==/",
-        "_etag": "\"6e019a4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 10
     },
     {
         "repository": "idam-forgerock-http-client",
@@ -1072,12 +807,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 9,
-        "_rid": "CgIaAM6YVKDDcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDDcgAAAAAAAA==/",
-        "_etag": "\"6e019b4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 9
     },
     {
         "repository": "civil-orchestrator-service",
@@ -1092,12 +822,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 16,
-        "_rid": "CgIaAM6YVKDEcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDEcgAAAAAAAA==/",
-        "_etag": "\"6e019c4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 16
     },
     {
         "repository": "et-hearings-api",
@@ -1112,12 +837,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 0,
-        "_rid": "CgIaAM6YVKDFcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDFcgAAAAAAAA==/",
-        "_etag": "\"6e019d4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 0
     },
     {
         "repository": "finrem-case-orchestration-service",
@@ -1132,12 +852,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 15,
-        "_rid": "CgIaAM6YVKDGcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDGcgAAAAAAAA==/",
-        "_etag": "\"6e019f4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 15
     },
     {
         "repository": "finrem-case-orchestration-service",
@@ -1152,12 +867,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 14,
-        "_rid": "CgIaAM6YVKDHcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDHcgAAAAAAAA==/",
-        "_etag": "\"6e01a04e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 14
     },
     {
         "repository": "finrem-case-orchestration-service",
@@ -1172,12 +882,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 14,
-        "_rid": "CgIaAM6YVKDIcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDIcgAAAAAAAA==/",
-        "_etag": "\"6e01a14e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 14
     },
     {
         "repository": "idam-health-checker",
@@ -1192,12 +897,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 10,
-        "_rid": "CgIaAM6YVKDJcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDJcgAAAAAAAA==/",
-        "_etag": "\"6e01a24e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 10
     },
     {
         "repository": "rse-gradle-java-plugin",
@@ -1212,12 +912,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 7,
-        "_rid": "CgIaAM6YVKDKcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDKcgAAAAAAAA==/",
-        "_etag": "\"6e01a54e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 7
     },
     {
         "repository": "idam-health-checker",
@@ -1232,12 +927,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 10,
-        "_rid": "CgIaAM6YVKDLcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDLcgAAAAAAAA==/",
-        "_etag": "\"6e01a64e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 10
     },
     {
         "repository": "idam-health-checker",
@@ -1252,12 +942,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 13,
-        "_rid": "CgIaAM6YVKDMcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDMcgAAAAAAAA==/",
-        "_etag": "\"6e01a94e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 13
     },
     {
         "repository": "idam-health-checker",
@@ -1272,12 +957,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 13,
-        "_rid": "CgIaAM6YVKDNcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDNcgAAAAAAAA==/",
-        "_etag": "\"6e01aa4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 13
     },
     {
         "repository": "idam-health-checker",
@@ -1292,12 +972,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 12,
-        "_rid": "CgIaAM6YVKDOcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDOcgAAAAAAAA==/",
-        "_etag": "\"6e01ab4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 12
     },
     {
         "repository": "idam-health-checker",
@@ -1312,12 +987,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 12,
-        "_rid": "CgIaAM6YVKDPcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDPcgAAAAAAAA==/",
-        "_etag": "\"6e01ac4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 12
     },
     {
         "repository": "idam-health-checker",
@@ -1332,12 +1002,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 9,
-        "_rid": "CgIaAM6YVKDQcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDQcgAAAAAAAA==/",
-        "_etag": "\"6e01ad4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 9
     },
     {
         "repository": "rse-idam-simulator",
@@ -1352,12 +1017,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 8,
-        "_rid": "CgIaAM6YVKDRcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDRcgAAAAAAAA==/",
-        "_etag": "\"6e01ae4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 8
     },
     {
         "repository": "idam-forgerock-http-client",
@@ -1372,12 +1032,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 9,
-        "_rid": "CgIaAM6YVKDScgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDScgAAAAAAAA==/",
-        "_etag": "\"6e01b04e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 9
     },
     {
         "repository": "et-hearings-api",
@@ -1392,12 +1047,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 0,
-        "_rid": "CgIaAM6YVKDTcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDTcgAAAAAAAA==/",
-        "_etag": "\"6e01b24e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 0
     },
     {
         "repository": "finrem-case-orchestration-service",
@@ -1412,12 +1062,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 14,
-        "_rid": "CgIaAM6YVKDUcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDUcgAAAAAAAA==/",
-        "_etag": "\"6e01b34e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 14
     },
     {
         "repository": "darts-portal",
@@ -1432,12 +1077,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 0,
-        "_rid": "CgIaAM6YVKDVcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDVcgAAAAAAAA==/",
-        "_etag": "\"6e01b44e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 0
     },
     {
         "repository": "civil-ccd-definition",
@@ -1452,12 +1092,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 3,
-        "_rid": "CgIaAM6YVKDWcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDWcgAAAAAAAA==/",
-        "_etag": "\"6e01b54e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 3
     },
     {
         "repository": "et-xui-e2e-tests",
@@ -1472,12 +1107,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 11,
-        "_rid": "CgIaAM6YVKDXcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDXcgAAAAAAAA==/",
-        "_etag": "\"6e01b64e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 11
     },
     {
         "repository": "pre-backend-api",
@@ -1492,12 +1122,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 15,
-        "_rid": "CgIaAM6YVKDYcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDYcgAAAAAAAA==/",
-        "_etag": "\"6e01b74e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 15
     },
     {
         "repository": "cnp-flux-config",
@@ -1512,12 +1137,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 5,
-        "_rid": "CgIaAM6YVKDZcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDZcgAAAAAAAA==/",
-        "_etag": "\"6e01b94e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 5
     },
     {
         "repository": "rse-gradle-java-plugin",
@@ -1532,12 +1152,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 7,
-        "_rid": "CgIaAM6YVKDacgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDacgAAAAAAAA==/",
-        "_etag": "\"6e01bb4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 7
     },
     {
         "repository": "hmc-hmi-inbound-adapter",
@@ -1552,12 +1167,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 15,
-        "_rid": "CgIaAM6YVKDbcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDbcgAAAAAAAA==/",
-        "_etag": "\"6e01bc4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 15
     },
     {
         "repository": "rse-gradle-java-plugin",
@@ -1572,12 +1182,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 0,
-        "_rid": "CgIaAM6YVKDccgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDccgAAAAAAAA==/",
-        "_etag": "\"6e01bd4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 0
     },
     {
         "repository": "labs-scottatwell1",
@@ -1592,12 +1197,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 9,
-        "_rid": "CgIaAM6YVKDdcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDdcgAAAAAAAA==/",
-        "_etag": "\"6e01c04e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 9
     },
     {
         "repository": "terraform-module-sql-managed-instance",
@@ -1612,12 +1212,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 8,
-        "_rid": "CgIaAM6YVKDecgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDecgAAAAAAAA==/",
-        "_etag": "\"6e01c14e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 8
     },
     {
         "repository": "azure-custom-roles",
@@ -1632,12 +1227,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 0,
-        "_rid": "CgIaAM6YVKDfcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDfcgAAAAAAAA==/",
-        "_etag": "\"6e01c24e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 0
     },
     {
         "repository": "cnp-flux-config",
@@ -1652,12 +1242,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 1,
-        "_rid": "CgIaAM6YVKDgcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDgcgAAAAAAAA==/",
-        "_etag": "\"6e01c54e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 1
     },
     {
         "repository": "am-role-assignment-refresh-batch",
@@ -1672,12 +1257,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 1,
-        "_rid": "CgIaAM6YVKDhcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDhcgAAAAAAAA==/",
-        "_etag": "\"6e01c74e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 1
     },
     {
         "repository": "rse-gradle-java-plugin",
@@ -1692,12 +1272,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 5,
-        "_rid": "CgIaAM6YVKDicgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDicgAAAAAAAA==/",
-        "_etag": "\"6e01cb4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 5
     },
     {
         "repository": "idam-forgerock-http-client",
@@ -1712,12 +1287,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 13,
-        "_rid": "CgIaAM6YVKDjcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDjcgAAAAAAAA==/",
-        "_etag": "\"6e01cc4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 13
     },
     {
         "repository": "pre-recorded-evidence",
@@ -1732,12 +1302,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 19,
-        "_rid": "CgIaAM6YVKDkcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDkcgAAAAAAAA==/",
-        "_etag": "\"6e01ce4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 19
     },
     {
         "repository": "idam-slack-help-bot",
@@ -1752,12 +1317,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 12,
-        "_rid": "CgIaAM6YVKDlcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDlcgAAAAAAAA==/",
-        "_etag": "\"6e01cf4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 12
     },
     {
         "repository": "cookie-manager",
@@ -1772,12 +1332,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 12,
-        "_rid": "CgIaAM6YVKDmcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDmcgAAAAAAAA==/",
-        "_etag": "\"6e01d04e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 12
     },
     {
         "repository": "rse-gradle-java-plugin",
@@ -1792,12 +1347,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 5,
-        "_rid": "CgIaAM6YVKDncgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDncgAAAAAAAA==/",
-        "_etag": "\"6e01d14e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 5
     },
     {
         "repository": "pre-recorded-evidence",
@@ -1812,12 +1362,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 19,
-        "_rid": "CgIaAM6YVKDocgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDocgAAAAAAAA==/",
-        "_etag": "\"6e01d34e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 19
     },
     {
         "repository": "pre-recorded-evidence",
@@ -1832,12 +1377,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 16,
-        "_rid": "CgIaAM6YVKDpcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDpcgAAAAAAAA==/",
-        "_etag": "\"6e01d64e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 16
     },
     {
         "repository": "idam-hmcts-access",
@@ -1852,12 +1392,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 0,
-        "_rid": "CgIaAM6YVKDqcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDqcgAAAAAAAA==/",
-        "_etag": "\"6e01d74e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 0
     },
     {
         "repository": "cui-ra",
@@ -1872,12 +1407,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 0,
-        "_rid": "CgIaAM6YVKDrcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDrcgAAAAAAAA==/",
-        "_etag": "\"6e01d84e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 0
     },
     {
         "repository": "dtsse-dashboard-ingestion",
@@ -1892,12 +1422,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 15,
-        "_rid": "CgIaAM6YVKDscgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDscgAAAAAAAA==/",
-        "_etag": "\"6e01d94e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 15
     },
     {
         "repository": "hmi-apim-infrastructures",
@@ -1912,12 +1437,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 0,
-        "_rid": "CgIaAM6YVKDtcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDtcgAAAAAAAA==/",
-        "_etag": "\"6e01dc4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 0
     },
     {
         "repository": "em-icp-api",
@@ -1932,12 +1452,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 13,
-        "_rid": "CgIaAM6YVKDucgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDucgAAAAAAAA==/",
-        "_etag": "\"6e01dd4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 13
     },
     {
         "repository": "sds-toffee-frontend",
@@ -1952,12 +1467,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 19,
-        "_rid": "CgIaAM6YVKDvcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDvcgAAAAAAAA==/",
-        "_etag": "\"6e01df4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 19
     },
     {
         "repository": "idam-slack-help-bot",
@@ -1972,12 +1482,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 9,
-        "_rid": "CgIaAM6YVKDwcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDwcgAAAAAAAA==/",
-        "_etag": "\"6e01e04e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 9
     },
     {
         "repository": "idam-forgerock-http-client",
@@ -1992,12 +1497,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 12,
-        "_rid": "CgIaAM6YVKDxcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDxcgAAAAAAAA==/",
-        "_etag": "\"6e01e14e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 12
     },
     {
         "repository": "rpe-pdf-service",
@@ -2012,12 +1512,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 12,
-        "_rid": "CgIaAM6YVKDycgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDycgAAAAAAAA==/",
-        "_etag": "\"6e01e24e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 12
     },
     {
         "repository": "am-role-assignment-service",
@@ -2032,12 +1527,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 2,
-        "_rid": "CgIaAM6YVKDzcgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKDzcgAAAAAAAA==/",
-        "_etag": "\"6e01e44e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 2
     },
     {
         "repository": "civil-wa-task-configuration",
@@ -2052,12 +1542,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 2,
-        "_rid": "CgIaAM6YVKD0cgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKD0cgAAAAAAAA==/",
-        "_etag": "\"6e01e64e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 2
     },
     {
         "repository": "am-org-role-mapping-service",
@@ -2072,12 +1557,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 2,
-        "_rid": "CgIaAM6YVKD1cgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKD1cgAAAAAAAA==/",
-        "_etag": "\"6e01e74e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 2
     },
     {
         "repository": "finrem-case-orchestration-service",
@@ -2092,12 +1572,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 14,
-        "_rid": "CgIaAM6YVKD2cgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKD2cgAAAAAAAA==/",
-        "_etag": "\"6e01e84e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 14
     },
     {
         "repository": "am-role-assignment-batch-service",
@@ -2112,12 +1587,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 2,
-        "_rid": "CgIaAM6YVKD3cgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKD3cgAAAAAAAA==/",
-        "_etag": "\"6e01eb4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 2
     },
     {
         "repository": "et-hearings-api",
@@ -2132,12 +1602,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 0,
-        "_rid": "CgIaAM6YVKD4cgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKD4cgAAAAAAAA==/",
-        "_etag": "\"6e01ec4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 0
     },
     {
         "repository": "labs-scottatwell1",
@@ -2152,12 +1617,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 9,
-        "_rid": "CgIaAM6YVKD5cgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKD5cgAAAAAAAA==/",
-        "_etag": "\"6e01ed4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 9
     },
     {
         "repository": "finrem-case-orchestration-service",
@@ -2172,12 +1632,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 13,
-        "_rid": "CgIaAM6YVKD6cgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKD6cgAAAAAAAA==/",
-        "_etag": "\"6e01ef4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 13
     },
     {
         "repository": "send-letter-client",
@@ -2192,12 +1647,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 8,
-        "_rid": "CgIaAM6YVKD7cgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKD7cgAAAAAAAA==/",
-        "_etag": "\"6e01f04e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 8
     },
     {
         "repository": "rse-gradle-java-plugin",
@@ -2212,12 +1662,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 2,
-        "_rid": "CgIaAM6YVKD8cgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKD8cgAAAAAAAA==/",
-        "_etag": "\"6e01f14e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 2
     },
     {
         "repository": "wa-case-event-handler",
@@ -2232,12 +1677,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 16,
-        "_rid": "CgIaAM6YVKD9cgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKD9cgAAAAAAAA==/",
-        "_etag": "\"6e01f24e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 16
     },
     {
         "repository": "idam-health-checker",
@@ -2252,12 +1692,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 11,
-        "_rid": "CgIaAM6YVKD+cgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKD+cgAAAAAAAA==/",
-        "_etag": "\"6e01f44e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 11
     },
     {
         "repository": "am-judicial-booking-service",
@@ -2272,12 +1707,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 9,
-        "_rid": "CgIaAM6YVKD-cgAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKD-cgAAAAAAAA==/",
-        "_etag": "\"6e01f54e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 9
     },
     {
         "repository": "java-logging",
@@ -2292,12 +1722,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 6,
-        "_rid": "CgIaAM6YVKAAcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAAcwAAAAAAAA==/",
-        "_etag": "\"6e01f64e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 6
     },
     {
         "repository": "idam-health-checker",
@@ -2312,12 +1737,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 11,
-        "_rid": "CgIaAM6YVKABcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKABcwAAAAAAAA==/",
-        "_etag": "\"6e01f74e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 11
     },
     {
         "repository": "payments-java-client",
@@ -2332,12 +1752,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 6,
-        "_rid": "CgIaAM6YVKACcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKACcwAAAAAAAA==/",
-        "_etag": "\"6e01f84e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 6
     },
     {
         "repository": "labs-peterpilgrim2",
@@ -2352,12 +1767,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 19,
-        "_rid": "CgIaAM6YVKADcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKADcwAAAAAAAA==/",
-        "_etag": "\"6e01f94e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 19
     },
     {
         "repository": "finrem-case-orchestration-service",
@@ -2372,12 +1782,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 13,
-        "_rid": "CgIaAM6YVKAEcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAEcwAAAAAAAA==/",
-        "_etag": "\"6e01fb4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 13
     },
     {
         "repository": "civil-camunda-bpmn-definition",
@@ -2392,12 +1797,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 0,
-        "_rid": "CgIaAM6YVKAFcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAFcwAAAAAAAA==/",
-        "_etag": "\"6e01fc4e-0000-1100-0000-64ef75b40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414836
+        "daysOpened": 0
     },
     {
         "repository": "sds-toffee-frontend",
@@ -2412,12 +1812,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 16,
-        "_rid": "CgIaAM6YVKAGcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAGcwAAAAAAAA==/",
-        "_etag": "\"6e01fd4e-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 16
     },
     {
         "repository": "azure-app-proxy-manager",
@@ -2432,12 +1827,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 0,
-        "_rid": "CgIaAM6YVKAHcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAHcwAAAAAAAA==/",
-        "_etag": "\"6e01fe4e-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 0
     },
     {
         "repository": "c100-application",
@@ -2452,12 +1842,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 11,
-        "_rid": "CgIaAM6YVKAIcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAIcwAAAAAAAA==/",
-        "_etag": "\"6e01ff4e-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 11
     },
     {
         "repository": "idam-forgerock-http-client",
@@ -2472,12 +1857,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 12,
-        "_rid": "CgIaAM6YVKAJcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAJcwAAAAAAAA==/",
-        "_etag": "\"6e01004f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 12
     },
     {
         "repository": "em-icp-api",
@@ -2492,12 +1872,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 14,
-        "_rid": "CgIaAM6YVKAKcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAKcwAAAAAAAA==/",
-        "_etag": "\"6e01014f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 14
     },
     {
         "repository": "em-icp-api",
@@ -2512,12 +1887,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 13,
-        "_rid": "CgIaAM6YVKALcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKALcwAAAAAAAA==/",
-        "_etag": "\"6e01024f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 13
     },
     {
         "repository": "dtsse-dashboard-ingestion",
@@ -2532,12 +1902,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 19,
-        "_rid": "CgIaAM6YVKAMcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAMcwAAAAAAAA==/",
-        "_etag": "\"6e01034f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 19
     },
     {
         "repository": "nodejs-info-provider",
@@ -2552,12 +1917,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 19,
-        "_rid": "CgIaAM6YVKANcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKANcwAAAAAAAA==/",
-        "_etag": "\"6e01054f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 19
     },
     {
         "repository": "et-xui-e2e-tests",
@@ -2572,12 +1932,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 5,
-        "_rid": "CgIaAM6YVKAOcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAOcwAAAAAAAA==/",
-        "_etag": "\"6e01074f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 5
     },
     {
         "repository": "zap-glue",
@@ -2592,12 +1947,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 9,
-        "_rid": "CgIaAM6YVKAPcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAPcwAAAAAAAA==/",
-        "_etag": "\"6e01084f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 9
     },
     {
         "repository": "fpl-ccd-configuration",
@@ -2612,12 +1962,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 13,
-        "_rid": "CgIaAM6YVKAQcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAQcwAAAAAAAA==/",
-        "_etag": "\"6e01094f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 13
     },
     {
         "repository": "idam-forgerock-auth-tree-node",
@@ -2632,12 +1977,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 13,
-        "_rid": "CgIaAM6YVKARcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKARcwAAAAAAAA==/",
-        "_etag": "\"6e010a4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 13
     },
     {
         "repository": "pre-recorded-evidence",
@@ -2652,12 +1992,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 16,
-        "_rid": "CgIaAM6YVKAScwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAScwAAAAAAAA==/",
-        "_etag": "\"6e010b4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 16
     },
     {
         "repository": "cnp-jenkins-library",
@@ -2672,12 +2007,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 7,
-        "_rid": "CgIaAM6YVKATcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKATcwAAAAAAAA==/",
-        "_etag": "\"6e010d4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 7
     },
     {
         "repository": "pre-portal",
@@ -2692,12 +2022,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 7,
-        "_rid": "CgIaAM6YVKAUcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAUcwAAAAAAAA==/",
-        "_etag": "\"6e010e4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 7
     },
     {
         "repository": "civil-camunda-bpmn-definition",
@@ -2712,12 +2037,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 0,
-        "_rid": "CgIaAM6YVKAVcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAVcwAAAAAAAA==/",
-        "_etag": "\"6e010f4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 0
     },
     {
         "repository": "cnp-flux-config",
@@ -2732,12 +2052,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 0,
-        "_rid": "CgIaAM6YVKAWcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAWcwAAAAAAAA==/",
-        "_etag": "\"6e01104f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 0
     },
     {
         "repository": "mi-core-lib",
@@ -2752,12 +2067,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 8,
-        "_rid": "CgIaAM6YVKAXcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAXcwAAAAAAAA==/",
-        "_etag": "\"6e01114f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 8
     },
     {
         "repository": "fpl-ccd-configuration",
@@ -2772,12 +2082,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 12,
-        "_rid": "CgIaAM6YVKAYcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAYcwAAAAAAAA==/",
-        "_etag": "\"6e01124f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 12
     },
     {
         "repository": "recipe-receiver",
@@ -2792,12 +2097,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 13,
-        "_rid": "CgIaAM6YVKAZcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAZcwAAAAAAAA==/",
-        "_etag": "\"6e01144f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 13
     },
     {
         "repository": "cpp-hooks-gitleaks",
@@ -2812,12 +2112,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 18,
-        "_rid": "CgIaAM6YVKAacwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAacwAAAAAAAA==/",
-        "_etag": "\"6e01154f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 18
     },
     {
         "repository": "civil-service",
@@ -2832,12 +2127,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 9,
-        "_rid": "CgIaAM6YVKAbcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAbcwAAAAAAAA==/",
-        "_etag": "\"6e01164f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 9
     },
     {
         "repository": "rpe-pdf-service",
@@ -2852,12 +2142,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 12,
-        "_rid": "CgIaAM6YVKAccwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAccwAAAAAAAA==/",
-        "_etag": "\"6e01184f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 12
     },
     {
         "repository": "rpe-pdf-service",
@@ -2872,12 +2157,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 12,
-        "_rid": "CgIaAM6YVKAdcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAdcwAAAAAAAA==/",
-        "_etag": "\"6e011a4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 12
     },
     {
         "repository": "jps-judicial-payment-service",
@@ -2892,12 +2172,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 1,
-        "_rid": "CgIaAM6YVKAecwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAecwAAAAAAAA==/",
-        "_etag": "\"6e011b4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 1
     },
     {
         "repository": "idam-forgerock-auth-tree-node",
@@ -2912,12 +2187,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 14,
-        "_rid": "CgIaAM6YVKAfcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAfcwAAAAAAAA==/",
-        "_etag": "\"6e011d4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 14
     },
     {
         "repository": "fpl-ccd-configuration",
@@ -2932,12 +2202,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 8,
-        "_rid": "CgIaAM6YVKAgcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAgcwAAAAAAAA==/",
-        "_etag": "\"6e011e4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 8
     },
     {
         "repository": "idam-forgerock-auth-tree-node",
@@ -2952,12 +2217,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 14,
-        "_rid": "CgIaAM6YVKAhcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAhcwAAAAAAAA==/",
-        "_etag": "\"6e01204f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 14
     },
     {
         "repository": "idam-forgerock-auth-tree-node",
@@ -2972,12 +2232,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 13,
-        "_rid": "CgIaAM6YVKAicwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAicwAAAAAAAA==/",
-        "_etag": "\"6e01224f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 13
     },
     {
         "repository": "pcq-commons",
@@ -2992,12 +2247,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 2,
-        "_rid": "CgIaAM6YVKAjcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAjcwAAAAAAAA==/",
-        "_etag": "\"6e01234f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 2
     },
     {
         "repository": "hmi-apim-infrastructures",
@@ -3012,12 +2262,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 0,
-        "_rid": "CgIaAM6YVKAkcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAkcwAAAAAAAA==/",
-        "_etag": "\"6e01244f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 0
     },
     {
         "repository": "darts-gateway",
@@ -3032,12 +2277,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 1,
-        "_rid": "CgIaAM6YVKAlcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAlcwAAAAAAAA==/",
-        "_etag": "\"6e01264f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 1
     },
     {
         "repository": "darts-api",
@@ -3052,12 +2292,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 5,
-        "_rid": "CgIaAM6YVKAmcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAmcwAAAAAAAA==/",
-        "_etag": "\"6e01274f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 5
     },
     {
         "repository": "am-role-assignment-batch-service",
@@ -3072,12 +2307,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 2,
-        "_rid": "CgIaAM6YVKAncwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAncwAAAAAAAA==/",
-        "_etag": "\"6e01284f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 2
     },
     {
         "repository": "payments-java-client",
@@ -3092,12 +2322,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 6,
-        "_rid": "CgIaAM6YVKAocwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAocwAAAAAAAA==/",
-        "_etag": "\"6e01294f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 6
     },
     {
         "repository": "payments-java-client",
@@ -3112,12 +2337,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 6,
-        "_rid": "CgIaAM6YVKApcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKApcwAAAAAAAA==/",
-        "_etag": "\"6e012b4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 6
     },
     {
         "repository": "labs-peterpilgrim2",
@@ -3132,12 +2352,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 0,
-        "_rid": "CgIaAM6YVKAqcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAqcwAAAAAAAA==/",
-        "_etag": "\"6e012d4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 0
     },
     {
         "repository": "idam-forgerock-auth-tree-node",
@@ -3152,12 +2367,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 14,
-        "_rid": "CgIaAM6YVKArcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKArcwAAAAAAAA==/",
-        "_etag": "\"6e012e4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 14
     },
     {
         "repository": "jps-judicial-payment-service",
@@ -3172,12 +2382,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 1,
-        "_rid": "CgIaAM6YVKAscwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAscwAAAAAAAA==/",
-        "_etag": "\"6e01304f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 1
     },
     {
         "repository": "rse-cft-lib",
@@ -3192,12 +2397,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 5,
-        "_rid": "CgIaAM6YVKAtcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAtcwAAAAAAAA==/",
-        "_etag": "\"6e01314f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 5
     },
     {
         "repository": "zap-glue",
@@ -3212,12 +2412,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 7,
-        "_rid": "CgIaAM6YVKAucwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAucwAAAAAAAA==/",
-        "_etag": "\"6e01344f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 7
     },
     {
         "repository": "am-judicial-booking-service",
@@ -3232,12 +2427,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 2,
-        "_rid": "CgIaAM6YVKAvcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAvcwAAAAAAAA==/",
-        "_etag": "\"6e01354f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 2
     },
     {
         "repository": "et-sya-api",
@@ -3252,12 +2442,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 0,
-        "_rid": "CgIaAM6YVKAwcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAwcwAAAAAAAA==/",
-        "_etag": "\"6e01364f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 0
     },
     {
         "repository": "civil-general-applications",
@@ -3272,12 +2457,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 2,
-        "_rid": "CgIaAM6YVKAxcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAxcwAAAAAAAA==/",
-        "_etag": "\"6e01374f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 2
     },
     {
         "repository": "idam-forgerock-http-client",
@@ -3292,12 +2472,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 11,
-        "_rid": "CgIaAM6YVKAycwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAycwAAAAAAAA==/",
-        "_etag": "\"6e01384f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 11
     },
     {
         "repository": "pre-recorded-evidence",
@@ -3312,12 +2487,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 16,
-        "_rid": "CgIaAM6YVKAzcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKAzcwAAAAAAAA==/",
-        "_etag": "\"6e01394f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 16
     },
     {
         "repository": "payments-java-client",
@@ -3332,12 +2502,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 6,
-        "_rid": "CgIaAM6YVKA0cwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKA0cwAAAAAAAA==/",
-        "_etag": "\"6e013b4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 6
     },
     {
         "repository": "finrem-case-orchestration-service",
@@ -3352,12 +2517,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 15,
-        "_rid": "CgIaAM6YVKA1cwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKA1cwAAAAAAAA==/",
-        "_etag": "\"6e013d4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 15
     },
     {
         "repository": "et-xui-e2e-tests",
@@ -3372,12 +2532,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 16,
-        "_rid": "CgIaAM6YVKA2cwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKA2cwAAAAAAAA==/",
-        "_etag": "\"6e013e4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 16
     },
     {
         "repository": "vh-booking-queue-subscriber",
@@ -3392,12 +2547,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 4,
-        "_rid": "CgIaAM6YVKA3cwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKA3cwAAAAAAAA==/",
-        "_etag": "\"6e013f4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 4
     },
     {
         "repository": "idam-selfservice-custom-stage",
@@ -3412,12 +2562,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 13,
-        "_rid": "CgIaAM6YVKA4cwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKA4cwAAAAAAAA==/",
-        "_etag": "\"6e01404f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 13
     },
     {
         "repository": "idam-access-config",
@@ -3432,12 +2577,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 12,
-        "_rid": "CgIaAM6YVKA5cwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKA5cwAAAAAAAA==/",
-        "_etag": "\"6e01414f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 12
     },
     {
         "repository": "idam-access-config",
@@ -3452,12 +2592,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 9,
-        "_rid": "CgIaAM6YVKA6cwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKA6cwAAAAAAAA==/",
-        "_etag": "\"6e01424f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 9
     },
     {
         "repository": "labs-LaurenceRawlings",
@@ -3472,12 +2607,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 16,
-        "_rid": "CgIaAM6YVKA7cwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKA7cwAAAAAAAA==/",
-        "_etag": "\"6e01434f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 16
     },
     {
         "repository": "idam-selfservice-custom-stage",
@@ -3492,12 +2622,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 13,
-        "_rid": "CgIaAM6YVKA8cwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKA8cwAAAAAAAA==/",
-        "_etag": "\"6e01444f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 13
     },
     {
         "repository": "idam-selfservice-custom-stage",
@@ -3512,12 +2637,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 13,
-        "_rid": "CgIaAM6YVKA9cwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKA9cwAAAAAAAA==/",
-        "_etag": "\"6e01464f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 13
     },
     {
         "repository": "idam-selfservice-custom-stage",
@@ -3532,12 +2652,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 13,
-        "_rid": "CgIaAM6YVKA+cwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKA+cwAAAAAAAA==/",
-        "_etag": "\"6e01484f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 13
     },
     {
         "repository": "idam-selfservice-custom-stage",
@@ -3552,12 +2667,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 13,
-        "_rid": "CgIaAM6YVKA-cwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKA-cwAAAAAAAA==/",
-        "_etag": "\"6e014a4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 13
     },
     {
         "repository": "sds-azure-platform",
@@ -3572,12 +2682,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 19,
-        "_rid": "CgIaAM6YVKBAcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBAcwAAAAAAAA==/",
-        "_etag": "\"6e014b4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 19
     },
     {
         "repository": "hub-panorama-terraform",
@@ -3592,12 +2697,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 15,
-        "_rid": "CgIaAM6YVKBBcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBBcwAAAAAAAA==/",
-        "_etag": "\"6e014d4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 15
     },
     {
         "repository": "sds-azure-platform",
@@ -3612,12 +2712,7 @@
         "verdict": "ok",
         "colorCode": "green",
         "reportType": "table",
-        "daysOpened": 2,
-        "_rid": "CgIaAM6YVKBCcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBCcwAAAAAAAA==/",
-        "_etag": "\"6e014e4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 2
     },
     {
         "repository": "idam-access-config",
@@ -3632,12 +2727,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 13,
-        "_rid": "CgIaAM6YVKBDcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBDcwAAAAAAAA==/",
-        "_etag": "\"6e014f4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 13
     },
     {
         "repository": "idam-access-config",
@@ -3652,12 +2742,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 13,
-        "_rid": "CgIaAM6YVKBEcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBEcwAAAAAAAA==/",
-        "_etag": "\"6e01514f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 13
     },
     {
         "repository": "idam-access-config",
@@ -3672,12 +2757,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 10,
-        "_rid": "CgIaAM6YVKBFcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBFcwAAAAAAAA==/",
-        "_etag": "\"6e01524f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 10
     },
     {
         "repository": "idam-access-config",
@@ -3692,12 +2772,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 13,
-        "_rid": "CgIaAM6YVKBGcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBGcwAAAAAAAA==/",
-        "_etag": "\"6e01544f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 13
     },
     {
         "repository": "idam-access-config",
@@ -3712,12 +2787,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 12,
-        "_rid": "CgIaAM6YVKBHcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBHcwAAAAAAAA==/",
-        "_etag": "\"6e01564f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 12
     },
     {
         "repository": "idam-access-config",
@@ -3732,12 +2802,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 11,
-        "_rid": "CgIaAM6YVKBIcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBIcwAAAAAAAA==/",
-        "_etag": "\"6e01574f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 11
     },
     {
         "repository": "idam-access-config",
@@ -3752,12 +2817,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 13,
-        "_rid": "CgIaAM6YVKBJcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBJcwAAAAAAAA==/",
-        "_etag": "\"6e01584f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 13
     },
     {
         "repository": "labs-LaurenceRawlings",
@@ -3772,12 +2832,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 15,
-        "_rid": "CgIaAM6YVKBKcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBKcwAAAAAAAA==/",
-        "_etag": "\"6e01594f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 15
     },
     {
         "repository": "hub-panorama-terraform",
@@ -3792,12 +2847,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 14,
-        "_rid": "CgIaAM6YVKBLcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBLcwAAAAAAAA==/",
-        "_etag": "\"6e015a4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 14
     },
     {
         "repository": "idam-access-config",
@@ -3812,12 +2862,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 10,
-        "_rid": "CgIaAM6YVKBMcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBMcwAAAAAAAA==/",
-        "_etag": "\"6e015b4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 10
     },
     {
         "repository": "test-update-cli-repo",
@@ -3832,12 +2877,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 167,
-        "_rid": "CgIaAM6YVKBNcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBNcwAAAAAAAA==/",
-        "_etag": "\"6e015c4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 167
     },
     {
         "repository": "test-update-cli-repo",
@@ -3852,12 +2892,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 287,
-        "_rid": "CgIaAM6YVKBOcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBOcwAAAAAAAA==/",
-        "_etag": "\"6e015d4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 287
     },
     {
         "repository": "cnp-azuredevops-libraries",
@@ -3872,12 +2907,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 65,
-        "_rid": "CgIaAM6YVKBPcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBPcwAAAAAAAA==/",
-        "_etag": "\"6e015e4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 65
     },
     {
         "repository": "cnp-azuredevops-libraries",
@@ -3892,12 +2922,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 65,
-        "_rid": "CgIaAM6YVKBQcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBQcwAAAAAAAA==/",
-        "_etag": "\"6e01604f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 65
     },
     {
         "repository": "aks-cft-deploy",
@@ -3912,12 +2937,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 16,
-        "_rid": "CgIaAM6YVKBRcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBRcwAAAAAAAA==/",
-        "_etag": "\"6e01614f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 16
     },
     {
         "repository": "aks-cft-deploy",
@@ -3932,12 +2952,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 23,
-        "_rid": "CgIaAM6YVKBScwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBScwAAAAAAAA==/",
-        "_etag": "\"6e01624f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 23
     },
     {
         "repository": "aks-sds-deploy",
@@ -3952,12 +2967,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 135,
-        "_rid": "CgIaAM6YVKBTcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBTcwAAAAAAAA==/",
-        "_etag": "\"6e01634f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 135
     },
     {
         "repository": "aks-cft-deploy",
@@ -3972,12 +2982,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 23,
-        "_rid": "CgIaAM6YVKBUcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBUcwAAAAAAAA==/",
-        "_etag": "\"6e01644f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 23
     },
     {
         "repository": "aks-cft-deploy",
@@ -3992,12 +2997,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 23,
-        "_rid": "CgIaAM6YVKBVcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBVcwAAAAAAAA==/",
-        "_etag": "\"6e01674f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 23
     },
     {
         "repository": "aks-cft-deploy",
@@ -4012,12 +3012,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 23,
-        "_rid": "CgIaAM6YVKBWcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBWcwAAAAAAAA==/",
-        "_etag": "\"6e01694f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 23
     },
     {
         "repository": "aks-cft-deploy",
@@ -4032,12 +3027,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 98,
-        "_rid": "CgIaAM6YVKBXcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBXcwAAAAAAAA==/",
-        "_etag": "\"6e016c4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 98
     },
     {
         "repository": "aks-cft-deploy",
@@ -4052,12 +3042,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 98,
-        "_rid": "CgIaAM6YVKBYcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBYcwAAAAAAAA==/",
-        "_etag": "\"6e016d4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 98
     },
     {
         "repository": "aks-cft-deploy",
@@ -4072,12 +3057,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 98,
-        "_rid": "CgIaAM6YVKBZcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBZcwAAAAAAAA==/",
-        "_etag": "\"6e016e4f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 98
     },
     {
         "repository": "aks-cft-deploy",
@@ -4092,12 +3072,7 @@
         "verdict": "review",
         "colorCode": "orange",
         "reportType": "table",
-        "daysOpened": 98,
-        "_rid": "CgIaAM6YVKBacwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBacwAAAAAAAA==/",
-        "_etag": "\"6e01714f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 98
     },
     {
         "repository": "aks-sds-deploy",
@@ -4112,12 +3087,7 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 254,
-        "_rid": "CgIaAM6YVKBbcwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBbcwAAAAAAAA==/",
-        "_etag": "\"6e01724f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 254
     },
     {
         "repository": "aks-sds-deploy",
@@ -4132,11 +3102,6 @@
         "verdict": "upgrade",
         "colorCode": "red",
         "reportType": "table",
-        "daysOpened": 254,
-        "_rid": "CgIaAM6YVKBccwAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaAM6YVKA=/docs/CgIaAM6YVKBccwAAAAAAAA==/",
-        "_etag": "\"6e01744f-0000-1100-0000-64ef75b50000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693414837
+        "daysOpened": 254
     }
 ]

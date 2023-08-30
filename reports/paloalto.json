@@ -17,12 +17,7 @@
         "hotFixes": [
             "11.0.1-h2",
             "11.0.1-h1"
-        ],
-        "_rid": "CgIaALYeJC4XAAAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaALYeJC4=/docs/CgIaALYeJC4XAAAAAAAAAA==/",
-        "_etag": "\"4b013c67-0000-1100-0000-64ef22900000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693393552
+        ]
     },
     {
         "id": "04502dcb-25e6-4d7a-ac2d-85691eb70183",
@@ -42,12 +37,7 @@
         "hotFixes": [
             "11.0.1-h2",
             "11.0.1-h1"
-        ],
-        "_rid": "CgIaALYeJC4YAAAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaALYeJC4=/docs/CgIaALYeJC4YAAAAAAAAAA==/",
-        "_etag": "\"4b014667-0000-1100-0000-64ef22920000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693393554
+        ]
     },
     {
         "id": "9229bc9d-334b-428f-8f8a-c29495dbfcee",
@@ -67,12 +57,7 @@
         "hotFixes": [
             "11.0.1-h2",
             "11.0.1-h1"
-        ],
-        "_rid": "CgIaALYeJC4ZAAAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaALYeJC4=/docs/CgIaALYeJC4ZAAAAAAAAAA==/",
-        "_etag": "\"4b014767-0000-1100-0000-64ef22920000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693393554
+        ]
     },
     {
         "id": "7713b96c-295b-4094-8a3f-97b97f7907e9",
@@ -89,12 +74,7 @@
         "verdict": "review",
         "environment": "prod",
         "releaseNotes": "https://www.paloaltonetworks.com/documentation/11-0/pan-os/pan-os-release-notes",
-        "hotFixes": [],
-        "_rid": "CgIaALYeJC4aAAAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaALYeJC4=/docs/CgIaALYeJC4aAAAAAAAAAA==/",
-        "_etag": "\"4b018770-0000-1100-0000-64ef23c30000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693393859
+        "hotFixes": []
     },
     {
         "id": "27637241-81ae-4033-b0fa-b640af2f4ab7",
@@ -111,12 +91,7 @@
         "verdict": "review",
         "environment": "prod",
         "releaseNotes": "https://www.paloaltonetworks.com/documentation/11-0/pan-os/pan-os-release-notes",
-        "hotFixes": [],
-        "_rid": "CgIaALYeJC4bAAAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaALYeJC4=/docs/CgIaALYeJC4bAAAAAAAAAA==/",
-        "_etag": "\"4b018f70-0000-1100-0000-64ef23c40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693393860
+        "hotFixes": []
     },
     {
         "id": "6ddfc24f-8f83-4978-92bb-3bd8ce23baae",
@@ -133,12 +108,7 @@
         "verdict": "review",
         "environment": "prod",
         "releaseNotes": "https://www.paloaltonetworks.com/documentation/11-0/pan-os/pan-os-release-notes",
-        "hotFixes": [],
-        "_rid": "CgIaALYeJC4cAAAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaALYeJC4=/docs/CgIaALYeJC4cAAAAAAAAAA==/",
-        "_etag": "\"4b019070-0000-1100-0000-64ef23c40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693393860
+        "hotFixes": []
     },
     {
         "id": "37278338-8c9b-467d-b0af-c06e0fff8d87",
@@ -155,12 +125,7 @@
         "verdict": "review",
         "environment": "prod",
         "releaseNotes": "https://www.paloaltonetworks.com/documentation/11-0/pan-os/pan-os-release-notes",
-        "hotFixes": [],
-        "_rid": "CgIaALYeJC4dAAAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaALYeJC4=/docs/CgIaALYeJC4dAAAAAAAAAA==/",
-        "_etag": "\"4b019170-0000-1100-0000-64ef23c40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693393860
+        "hotFixes": []
     },
     {
         "id": "8083a344-0e60-4c99-b083-99d7dab917a9",
@@ -177,11 +142,6 @@
         "verdict": "review",
         "environment": "prod",
         "releaseNotes": "https://www.paloaltonetworks.com/documentation/11-0/pan-os/pan-os-release-notes",
-        "hotFixes": [],
-        "_rid": "CgIaALYeJC4eAAAAAAAAAA==",
-        "_self": "dbs/CgIaAA==/colls/CgIaALYeJC4=/docs/CgIaALYeJC4eAAAAAAAAAA==/",
-        "_etag": "\"4b019270-0000-1100-0000-64ef23c40000\"",
-        "_attachments": "attachments/",
-        "_ts": 1693393860
+        "hotFixes": []
     }
 ]
