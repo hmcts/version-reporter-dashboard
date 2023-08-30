@@ -31,9 +31,13 @@ try:
         for item in db_container.query_items(
                 query='SELECT * FROM c',
                 enable_cross_partition_query=True):
+            # Remove cosmosdb specific properties, not needed
+            for key in ["_rid", "_self", "_etag", "_attachments", "_ts"]:
+                item.pop(key, None)
+
             reports.append(item)
 
-        # Save json data to the reports folder under public folder
+        # Save json data to the public/reports folder
         file_name = f"./public/reports/{container}.json"
         with open(file_name, 'w') as report_file:
             json.dump(reports, report_file, indent=4)
