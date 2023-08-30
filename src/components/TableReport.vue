@@ -50,7 +50,7 @@ export default {
 
 <template>
   <div class="table-filter">
-    <label>Filter by Title:</label>
+    <label>Filter by: Title | Repo | Verdict | Date</label>
     <input type="text" v-model="tableFilters.columns.value"/>
   </div>
   <VTable

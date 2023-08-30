@@ -28,7 +28,7 @@ export default {
 
 <template>
   <div v-for="(group, name) in reports" class="list-group list-item">
-    <div class="list-item"><h2>{{ name }}</h2></div>
+    <div class="list-item"><h2>{{ name }}'s</h2></div>
     <div v-for="report in group" class="list-group-items list-item">
       <table class="list-group-table">
         <tbody>
