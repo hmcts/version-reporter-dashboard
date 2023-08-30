@@ -9,8 +9,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "ag-grid-community": "^30.1.0",
+    "ag-grid-vue3": "^30.1.0",
+    "axios": "^1.4.0",
     "gh-pages": "^6.0.0",
-    "vue": "^3.3.4"
+    "lodash": "^4.17.21",
+    "vue": "^3.3.4",
+    "vue-property-decorator": "^8.5.1",
+    "vue-router": "^4.2.4",
+    "vuejs-smart-table": "^1.0.0-beta.6"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.2.3",
