@@ -8,8 +8,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - env:
-          GITHUB_TOKEN: ${{ secrets.VSR_GIT_TOKEN }}
 
       - name: Checkout repo content
         uses: actions/checkout@v3 # checkout the repository content
@@ -41,5 +39,5 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.VSR_GIT_TOKEN }}
           branch: master
