@@ -16,7 +16,7 @@
         "id": "1ABD0FB6-E1FF-4CB1-BCD1-191CAB703E8C",
         "environment": "",
         "createdOn": "2023-08-30 15:40:04",
-        "lastUpdated": "2023-08-30 15:40:04"
+        "lastUpdated": "2023-08-31 09:45:23"
     },
     {
         "chart": "kured",
@@ -35,7 +35,7 @@
         "id": "2EE92717-42FF-4D50-83D7-2F6F9E252FFE",
         "environment": "",
         "createdOn": "2023-08-30 15:40:05",
-        "lastUpdated": "2023-08-30 15:40:05"
+        "lastUpdated": "2023-08-31 09:45:24"
     },
     {
         "chart": "traefik",
@@ -54,6 +54,6 @@
         "id": "568C31C6-B686-4631-82ED-D1AE7B4D3629",
         "environment": "",
         "createdOn": "2023-08-30 15:40:05",
-        "lastUpdated": "2023-08-30 15:40:05"
+        "lastUpdated": "2023-08-31 09:45:24"
     }
 ]
