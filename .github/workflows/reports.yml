@@ -1,6 +1,7 @@
 name: Refresh Dashboard Report Data
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '5 8-17 * * 1-5' # At minute 5 past every hour from 8 through 17 on every day-of-week from Monday through Friday
 
@@ -41,3 +42,22 @@ jobs:
         with:
           github_token: ${{ secrets.VSR_GIT_TOKEN }}
           branch: master
+
+      - name: Copy Reports
+        run: |
+          git switch gh-pages
+          cd public/reports
+          git checkout master public/reports/paloalto.json
+          git add -A
+          git commit -a -m "updated report from database" --allow-empty
+#
+#      - name: Trigger Build Workflow
+#        uses: actions/github-script@v6
+#        with:
+#          script: |
+#            github.rest.actions.createWorkflowDispatch({
+#              owner: context.repo.owner,
+#              repo: context.repo.repo,
+#              workflow_id: 'deploy.yml',
+#              ref: 'master',
+#            })
