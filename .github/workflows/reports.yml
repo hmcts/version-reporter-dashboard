@@ -37,7 +37,7 @@ jobs:
           git diff-index --quiet HEAD || (git commit -a -m "updated report from database" --allow-empty)
 
       - name: Push changes
-        uses: ad-m/github-push-action
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
