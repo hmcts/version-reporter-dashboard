@@ -35,29 +35,25 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "updated report from database" --allow-empty)
+          git diff-index --quiet HEAD || (git commit -am "Updated report from database" --allow-empty)
 
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.VSR_GIT_TOKEN }}
+          github_token: ${{ secrets.GIT_TOKEN }}
           branch: master
 
       - name: Copy Reports
         run: |
           git switch gh-pages
-          cd public/reports
-          git checkout master public/reports/paloalto.json
+          git checkout master -- public/reports
+          mv public/reports/* reports
+          rm -rf public
           git add -A
-          git commit -a -m "updated report from database" --allow-empty
-#
-#      - name: Trigger Build Workflow
-#        uses: actions/github-script@v6
-#        with:
-#          script: |
-#            github.rest.actions.createWorkflowDispatch({
-#              owner: context.repo.owner,
-#              repo: context.repo.repo,
-#              workflow_id: 'deploy.yml',
-#              ref: 'master',
-#            })
+          git commit -am "Copied current static report" --allow-empty
+
+      - name: Push changes to gh-pages
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GIT_TOKEN }}
+          branch: gh-pages
