@@ -50,12 +50,10 @@ jobs:
 
       - name: Copy Static reports
         run: |
-          git fetch origin gh-pages:gh-pages --update-head-ok
-          git clean -fx
-          git checkout master -- public/reports
+          git checkout origin master -- public/reports
           mv public/reports/* reports
           rm -rf public         
           git add .
-          git diff-index --quiet HEAD ||  git commit -am "Copied current static report" --allow-empty  # commit to the repository (ignore if no modification)
+          git diff-index --quiet HEAD || (git commit -am "Copied current static report" --allow-empty)  # commit to the repository (ignore if no modification)
           git push origin gh-pages # push to remote branch
         working-directory: gh-pages
