@@ -50,7 +50,7 @@ jobs:
 
       - name: Copy Static reports
         run: |
-          git checkout origin/master -- public/reports
+          git checkout remotes/origin/master -- public/reports
           mv public/reports/* reports
           rm -rf public         
           git add .
