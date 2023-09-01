@@ -11,6 +11,8 @@ jobs:
 
       - name: Checkout repo content
         uses: actions/checkout@v3 # checkout the repository content
+        with:
+          fetch-depth: 0
 
       - name: Setup python
         uses: actions/setup-python@v4
@@ -36,6 +38,8 @@ jobs:
           git config --local user.name "GitHub Action"
           git add -A
           git diff-index --quiet HEAD || (git commit -am "Updated report from database" --allow-empty)
+          
+          git branch -a
 
       - name: Push changes
         uses: ad-m/github-push-action@master
