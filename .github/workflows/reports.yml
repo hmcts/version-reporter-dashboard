@@ -39,8 +39,6 @@ jobs:
           git add -A
           git diff-index --quiet HEAD || (git commit -am "Updated report from database" --allow-empty)
           
-          git branch -a
-          
           git switch gh-pages
           git checkout master -- public/reports
           mv public/reports/* reports
