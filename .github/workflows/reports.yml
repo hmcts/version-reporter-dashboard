@@ -2,7 +2,7 @@ name: Refresh Dashboard Report Data
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  #'5 8-17 * * 1-5' # At minute 5 past every hour from 8 through 17 on every day-of-week from Monday through Friday
+    - cron: '*/3 * * * *'  #'5 8-17 * * 1-5' # At minute 5 past every hour from 8 through 17 on every day-of-week from Monday through Friday
 
 jobs:
   build:
@@ -35,26 +35,11 @@ jobs:
           git config --local user.name "GitHub Action"
           git add -A
           git diff-index --quiet HEAD || (git commit -am "Updated report from database" --allow-empty)
+          
+          git branch -a
 
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.VRS_GIT_TOKEN }}
           branch: master
-
-      - name: Checkout gh-pages
-        uses: actions/checkout@v3
-        with:
-          ref: gh-pages
-          path: gh-pages
-
-      - name: Copy Static reports
-        run: |
-          git branch -a
-          git checkout remotes/origin/master -- public/reports
-          mv public/reports/* reports
-          rm -rf public         
-          git add .
-          git diff-index --quiet HEAD || (git commit -am "Copied current static report" --allow-empty)  # commit to the repository (ignore if no modification)
-          git push origin gh-pages # push to remote branch
-        working-directory: gh-pages
