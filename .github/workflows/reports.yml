@@ -37,7 +37,7 @@ jobs:
           git diff-index --quiet HEAD || (git commit -am "Updated report from database" --allow-empty)
           
           # Copy static files
-          git switch gh-pages
+          git checkout gh-pages
           git checkout master -- public/reports
           mv public/reports/* reports
           rm -rf public
