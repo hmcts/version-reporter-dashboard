@@ -35,15 +35,8 @@ jobs:
           git config --local user.name "GitHub Action"
           git add -A
           git diff-index --quiet HEAD || (git commit -am "Updated report from database" --allow-empty)
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.VRS_GIT_TOKEN }}
-          branch: master
-
-      - name: Copy Reports
-        run: |
+          
+          # Copy static files
           git switch gh-pages
           git checkout master -- public/reports
           mv public/reports/* reports
@@ -51,8 +44,8 @@ jobs:
           git add -A
           git commit -am "Copied current static report" --allow-empty
 
-      - name: Push changes to gh-pages
+      - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.VRS_GIT_TOKEN }}
-          branch: gh-pages
+          branch: master
