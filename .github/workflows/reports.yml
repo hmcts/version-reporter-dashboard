@@ -35,17 +35,27 @@ jobs:
           git config --local user.name "GitHub Action"
           git add -A
           git diff-index --quiet HEAD || (git commit -am "Updated report from database" --allow-empty)
-          
-          # Copy static files
-          git checkout gh-pages
-          git checkout master -- public/reports
-          mv public/reports/* reports
-          rm -rf public
-          git add -A
-          git commit -am "Copied current static report" --allow-empty
 
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.VRS_GIT_TOKEN }}
           branch: master
+
+      - name: Checkout gh-pages
+        uses: actions/checkout@v3
+        with:
+          ref: gh-pages
+          path: gh-pages
+
+      - name: Copy Static reports
+        run: |
+          git fetch origin gh-pages:gh-pages --update-head-ok
+          git clean -fx
+          git checkout master -- public/reports
+          mv public/reports/* reports
+          rm -rf public         
+          git add .
+          git diff-index --quiet HEAD ||  git commit -am "Copied current static report" --allow-empty  # commit to the repository (ignore if no modification)
+          git push origin gh-pages # push to remote branch
+        working-directory: gh-pages
