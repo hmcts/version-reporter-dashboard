@@ -7,6 +7,7 @@ try:
     COSMOS_KEY = os.environ["COSMOS_KEY"]
     COSMOS_DB_NAME = os.environ["COSMOS_DB_NAME"]
     COSMOS_DB_URI = os.environ["COSMOS_DB_URI"]
+    WORKSPACE = os.environ["WORKSPACE"]
 except KeyError as k:
     print(f"Missing key. Error", k, "Job will exit and not complete")
     raise
@@ -38,7 +39,7 @@ try:
             reports.append(item)
 
         # Save json data to the public/reports folder
-        file_name = f"./public/reports/{container}.json"
+        file_name = f"public/reports/{container}.json"
         with open(file_name, 'w') as report_file:
             json.dump(reports, report_file, indent=4)
 
