@@ -16,7 +16,8 @@ except KeyError as k:
 containers = [
     "renovate",
     "paloalto",
-    "helmcharts"
+    "helmcharts",
+    "docsoutdated"
 ]
 
 try:
