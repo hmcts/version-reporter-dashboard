@@ -79,7 +79,7 @@ const meta = [
         "displayName": "Documentation Out of Date",
         "reportType": "card",
         "display": [
-            "docName",
+            "document",
             "reviewed",
             "expiry"
         ]
