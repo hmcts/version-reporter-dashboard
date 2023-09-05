@@ -1,0 +1,93 @@
+[
+    {
+        "id": "c0dab124-f288-43a9-a5d8-be41c5f00ed2",
+        "docName": "PlatOps Goldenpath",
+        "displayName": "HMCTS Documentation Review",
+        "reportType": "card",
+        "title": "GoldenPath PlatOps - HMCTS",
+        "lastReviewed": "2023-07-23",
+        "pageExpiry": "2023-09-23",
+        "daysLeft": 19,
+        "url": "https://hmcts.github.io/goldenpath-platops/index.html",
+        "colorCode": "orange",
+        "verdict": "review"
+    },
+    {
+        "id": "51d2521f-04f3-4d93-bd46-983e2ed41a9b",
+        "docName": "PlatOps Goldenpath",
+        "displayName": "HMCTS Documentation Review",
+        "reportType": "card",
+        "title": "Walkthrough - HMCTS",
+        "lastReviewed": "2023-07-23",
+        "pageExpiry": "2023-09-23",
+        "daysLeft": 19,
+        "url": "https://hmcts.github.io/goldenpath-platops/Walkthrough/index.html",
+        "colorCode": "orange",
+        "verdict": "review"
+    },
+    {
+        "id": "42e69f55-e4fa-45bd-b785-fb21da6ec161",
+        "docName": "PlatOps Goldenpath",
+        "displayName": "HMCTS Documentation Review",
+        "reportType": "card",
+        "title": "Lab Repository and Pipeline - HMCTS",
+        "lastReviewed": "2023-07-23",
+        "pageExpiry": "2023-09-23",
+        "daysLeft": 19,
+        "url": "https://hmcts.github.io/goldenpath-platops/Walkthrough/prereq.html",
+        "colorCode": "orange",
+        "verdict": "review"
+    },
+    {
+        "id": "c1d3fec5-2acb-4c8f-8ba8-3504e5715461",
+        "docName": "PlatOps Goldenpath",
+        "displayName": "HMCTS Documentation Review",
+        "reportType": "card",
+        "title": "Virtual Networks - HMCTS",
+        "lastReviewed": "2023-07-23",
+        "pageExpiry": "2023-09-23",
+        "daysLeft": 19,
+        "url": "https://hmcts.github.io/goldenpath-platops/Walkthrough/virtual-networks.html",
+        "colorCode": "orange",
+        "verdict": "review"
+    },
+    {
+        "id": "239bbcbf-a485-459d-960c-9fabdc227f8c",
+        "docName": "PlatOps Goldenpath",
+        "displayName": "HMCTS Documentation Review",
+        "reportType": "card",
+        "title": "AKS Cluster - HMCTS",
+        "lastReviewed": "2023-07-23",
+        "pageExpiry": "2023-09-23",
+        "daysLeft": 19,
+        "url": "https://hmcts.github.io/goldenpath-platops/Walkthrough/aks-cluster.html",
+        "colorCode": "orange",
+        "verdict": "review"
+    },
+    {
+        "id": "bbbfca5e-7de5-43c1-bb7f-0a9f0045675d",
+        "docName": "PlatOps Goldenpath",
+        "displayName": "HMCTS Documentation Review",
+        "reportType": "card",
+        "title": "Clean Up - HMCTS",
+        "lastReviewed": "2023-07-23",
+        "pageExpiry": "2023-09-23",
+        "daysLeft": 19,
+        "url": "https://hmcts.github.io/goldenpath-platops/Walkthrough/clean-up.html",
+        "colorCode": "orange",
+        "verdict": "review"
+    },
+    {
+        "id": "ce29b7e4-836e-4040-bd0f-fa4b5ee0b92a",
+        "docName": "PlatOps Goldenpath",
+        "displayName": "HMCTS Documentation Review",
+        "reportType": "card",
+        "title": "Further Steps - HMCTS",
+        "lastReviewed": "2023-07-23",
+        "pageExpiry": "2023-09-23",
+        "daysLeft": 19,
+        "url": "https://hmcts.github.io/goldenpath-platops/Walkthrough/futher-steps.html",
+        "colorCode": "orange",
+        "verdict": "review"
+    }
+]
