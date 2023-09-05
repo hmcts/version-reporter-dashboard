@@ -875,6 +875,11 @@ body .wrapper {
     background-color: rgba(0, 0, 0, .03);
 }
 
+.flex-container .item-header a.header-link {
+    font-size: large;
+    color: white;
+}
+
 .flex-container .item-content {
     padding: 5px 20px 15px 20px;
 }

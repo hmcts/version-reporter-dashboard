@@ -31,7 +31,12 @@ export default {
   <div class="flex-container">
     <div class="card-item" v-for="report in reports">
       <div :class="[report['colorCode']]">
-        <div class="item-header h5">{{ report['chart'] }}</div>
+        <div class="item-header h5" v-if="reportName == 'helmchart'">
+          {{ report['chart'] }}
+        </div>
+        <div class="item-header h5" v-if="reportName == 'docsoutdated'">
+          <a class="header-link" :href="report['url']" target="_blank" :title="report['docTitle']">{{ report['docTitle'] }}</a>
+        </div>
         <div class="item-content">
           <ul class="item-content-ul">
             <li class="item-content-ul-li" v-for="property in metadata.display">

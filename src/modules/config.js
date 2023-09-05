@@ -74,6 +74,18 @@ const meta = [
         ]
     },
     {
+        "reportName": "docsoutdated",
+        "reportTitle": "PlaOps Documentation",
+        "displayName": "Documentation Out of Date",
+        "reportType": "card",
+        "display": [
+            "reviewed",
+            "expiry",
+            "days",
+            "verdict"
+        ]
+    },
+    {
         "reportName": "Unknown",
         "reportTitle": "Unknown report",
         "displayName": "Report may not exist",

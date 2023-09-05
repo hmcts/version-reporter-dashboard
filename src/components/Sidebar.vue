@@ -45,10 +45,10 @@ const setReport = (name) => {
                    @click="setReport('paloalto')">
         <i class="fa-solid fa-building-shield" aria-hidden="true"></i>
       </router-link>
-      <router-link :to="{ name: 'reports', params: { reportName: 'out-of-date' } }" title="Document Out-of-Date Report"
+      <router-link :to="{ name: 'reports', params: { reportName: 'docsoutdated' } }" title="Document Out-of-Date Report"
                    class="nav-item"
-                   :class="{'selected' : reportName == 'out-of-date'}"
-                   @click="setReport('out-of-data')">
+                   :class="{'selected' : reportName == 'docsoutdated'}"
+                   @click="setReport('docsoutdated')">
         <i class="fa fa-book" aria-hidden="true"></i>
       </router-link>
     </div>
