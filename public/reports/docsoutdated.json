@@ -1,11 +1,11 @@
 [
     {
-        "id": "8f299d4e-8c14-4162-b521-fb4296772845",
+        "id": "753ede34-5b3f-486b-a0c8-5c4d7f5b18ed",
         "reportName": "docsoutdated",
         "reportTitle": "Documentation out-of-date",
         "displayName": "HMCTS Documentation Review",
         "docName": "Opsrunbooks",
-        "docTitle": "Operations Runbooks - HMCTS",
+        "docTitle": "Operations Runbooks",
         "reportType": "card",
         "lastReviewed": "2023-08-05",
         "pageExpiry": "2023-12-05",
@@ -15,12 +15,12 @@
         "verdict": "ok"
     },
     {
-        "id": "42415a71-1c05-49b6-9a55-0d2b8061c2ba",
+        "id": "6dc54d92-a823-4f66-aa3a-ec939f4c39ff",
         "reportName": "docsoutdated",
         "reportTitle": "Documentation out-of-date",
         "displayName": "HMCTS Documentation Review",
         "docName": "Opsrunbooks",
-        "docTitle": "Connecting to a Palo Alto firewall - HMCTS",
+        "docTitle": "Connecting to a Palo Alto firewall",
         "reportType": "card",
         "lastReviewed": "2023-08-01",
         "pageExpiry": "2024-02-01",
@@ -30,12 +30,12 @@
         "verdict": "ok"
     },
     {
-        "id": "cca2d9a7-abfb-4566-9301-d05b5622d48b",
+        "id": "537b9ea1-bb93-4e3f-a41b-865ce7211522",
         "reportName": "docsoutdated",
         "reportTitle": "Documentation out-of-date",
         "displayName": "HMCTS Documentation Review",
         "docName": "Opsrunbooks",
-        "docTitle": "Palo Alto Troubleshooting - HMCTS",
+        "docTitle": "Palo Alto Troubleshooting",
         "reportType": "card",
         "lastReviewed": "2023-08-01",
         "pageExpiry": "2024-02-01",
@@ -45,12 +45,12 @@
         "verdict": "ok"
     },
     {
-        "id": "186f404b-3b00-4b37-be0a-e76a96c8650a",
+        "id": "f0c7f5bd-e9ba-43fd-b21b-146711139b6f",
         "reportName": "docsoutdated",
         "reportTitle": "Documentation out-of-date",
         "displayName": "HMCTS Documentation Review",
         "docName": "Opsrunbooks",
-        "docTitle": "Palo Alto Software Upgrade - HMCTS",
+        "docTitle": "Palo Alto Software Upgrade",
         "reportType": "card",
         "lastReviewed": "2023-04-01",
         "pageExpiry": "2023-08-01",
@@ -60,12 +60,12 @@
         "verdict": "upgrade"
     },
     {
-        "id": "6680f069-dbb2-4299-803f-c05f1c965157",
+        "id": "1074feb2-ff71-44c9-b961-0994dcd7adab",
         "reportName": "docsoutdated",
         "reportTitle": "Documentation out-of-date",
         "displayName": "HMCTS Documentation Review",
         "docName": "Opsrunbooks",
-        "docTitle": "Panorama - Software Updates - HMCTS",
+        "docTitle": "Panorama - Software Updates",
         "reportType": "card",
         "lastReviewed": "2023-08-05",
         "pageExpiry": "2023-12-05",
@@ -75,12 +75,12 @@
         "verdict": "ok"
     },
     {
-        "id": "17675eb5-dd2c-42d0-9626-bafc0d9db52f",
+        "id": "7371e67a-7859-47a3-9251-56d297af64ea",
         "reportName": "docsoutdated",
         "reportTitle": "Documentation out-of-date",
         "displayName": "HMCTS Documentation Review",
         "docName": "PlatOps Goldenpath",
-        "docTitle": "GoldenPath PlatOps - HMCTS",
+        "docTitle": "GoldenPath PlatOps",
         "reportType": "card",
         "lastReviewed": "2023-07-23",
         "pageExpiry": "2023-09-23",
@@ -90,12 +90,12 @@
         "verdict": "review"
     },
     {
-        "id": "78a8a69e-b6ad-4a25-a08f-885da88031b0",
+        "id": "7033d946-e247-4214-9fb3-e10c91485651",
         "reportName": "docsoutdated",
         "reportTitle": "Documentation out-of-date",
         "displayName": "HMCTS Documentation Review",
         "docName": "PlatOps Goldenpath",
-        "docTitle": "Walkthrough - HMCTS",
+        "docTitle": "Walkthrough",
         "reportType": "card",
         "lastReviewed": "2023-07-23",
         "pageExpiry": "2023-09-23",
@@ -105,12 +105,12 @@
         "verdict": "review"
     },
     {
-        "id": "83a3d7b3-9dce-49a6-80d3-41a43a0abd68",
+        "id": "885adc0f-7712-4668-b128-7d47dcaa5422",
         "reportName": "docsoutdated",
         "reportTitle": "Documentation out-of-date",
         "displayName": "HMCTS Documentation Review",
         "docName": "PlatOps Goldenpath",
-        "docTitle": "Lab Repository and Pipeline - HMCTS",
+        "docTitle": "Lab Repository and Pipeline",
         "reportType": "card",
         "lastReviewed": "2023-05-01",
         "pageExpiry": "2023-07-01",
@@ -120,12 +120,12 @@
         "verdict": "upgrade"
     },
     {
-        "id": "c87ac86b-c003-43a6-acd4-f08f8c80cf2a",
+        "id": "93517c24-d267-4513-bdec-8312e5522391",
         "reportName": "docsoutdated",
         "reportTitle": "Documentation out-of-date",
         "displayName": "HMCTS Documentation Review",
         "docName": "PlatOps Goldenpath",
-        "docTitle": "Virtual Networks - HMCTS",
+        "docTitle": "Virtual Networks",
         "reportType": "card",
         "lastReviewed": "2023-07-23",
         "pageExpiry": "2023-09-23",
@@ -135,12 +135,12 @@
         "verdict": "review"
     },
     {
-        "id": "63ef87c9-fc96-406f-864f-7a25b368e9af",
+        "id": "894d0ca6-6c77-4a2f-b9f0-e4cbecb6797c",
         "reportName": "docsoutdated",
         "reportTitle": "Documentation out-of-date",
         "displayName": "HMCTS Documentation Review",
         "docName": "PlatOps Goldenpath",
-        "docTitle": "AKS Cluster - HMCTS",
+        "docTitle": "AKS Cluster",
         "reportType": "card",
         "lastReviewed": "2023-07-23",
         "pageExpiry": "2023-09-23",
@@ -150,12 +150,12 @@
         "verdict": "review"
     },
     {
-        "id": "a95c464d-1165-4ec0-90f1-5c4e8e3e3f51",
+        "id": "913253c4-d18e-4e66-bc78-8f3980c78565",
         "reportName": "docsoutdated",
         "reportTitle": "Documentation out-of-date",
         "displayName": "HMCTS Documentation Review",
         "docName": "PlatOps Goldenpath",
-        "docTitle": "Clean Up - HMCTS",
+        "docTitle": "Clean Up",
         "reportType": "card",
         "lastReviewed": "2023-08-04",
         "pageExpiry": "2023-10-04",
@@ -165,12 +165,12 @@
         "verdict": "review"
     },
     {
-        "id": "3d20a6d0-ee27-4788-89fd-88cfcaae7822",
+        "id": "5ef30a86-4714-408c-844b-b9256517998b",
         "reportName": "docsoutdated",
         "reportTitle": "Documentation out-of-date",
         "displayName": "HMCTS Documentation Review",
         "docName": "PlatOps Goldenpath",
-        "docTitle": "Further Steps - HMCTS",
+        "docTitle": "Further Steps",
         "reportType": "card",
         "lastReviewed": "2023-07-23",
         "pageExpiry": "2023-09-23",
