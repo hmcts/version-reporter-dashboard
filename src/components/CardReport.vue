@@ -19,6 +19,7 @@ export default {
     }
   },
   beforeMount() {
+    this.reports = null;
     try {
       this.metadata = reports.getMetadata(this.reportName);
       reports

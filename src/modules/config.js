@@ -81,8 +81,7 @@ const meta = [
         "display": [
             "docName",
             "reviewed",
-            "expiry",
-            "verdict"
+            "expiry"
         ]
     },
     {
