@@ -75,7 +75,7 @@ const meta = [
     },
     {
         "reportName": "docsoutdated",
-        "reportTitle": "PlaOps Documentation",
+        "reportTitle": "PlatOps Documentation",
         "displayName": "Documentation Out of Date",
         "reportType": "card",
         "display": [

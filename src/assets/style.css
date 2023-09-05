@@ -875,6 +875,11 @@ body .wrapper {
     background-color: rgba(0, 0, 0, .03);
 }
 
+.flex-container .item-header.h5 {
+    font-size: large;
+    color: white;
+}
+
 .flex-container .item-header a.header-link {
     font-size: large;
     color: white;
@@ -1029,7 +1034,7 @@ tr.red:hover {
     display: flex;
 }
 
-.pagination{
+.pagination {
     display: -ms-flexbox;
     display: flex;
     padding-left: 0;

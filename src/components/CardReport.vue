@@ -31,7 +31,7 @@ export default {
   <div class="flex-container">
     <div class="card-item" v-for="report in reports">
       <div :class="[report['colorCode']]">
-        <div class="item-header h5" v-if="reportName == 'helmchart'">
+        <div class="item-header h5" v-if="reportName == 'helmcharts'">
           {{ report['chart'] }}
         </div>
         <div class="item-header h5" v-if="reportName == 'docsoutdated'">
