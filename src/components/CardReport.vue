@@ -1,5 +1,6 @@
 <script>
 import reports from "@/modules/reports.js";
+import dayjs from 'dayjs';
 import _ from 'lodash';
 
 export default {
@@ -9,6 +10,12 @@ export default {
     return {
       reports: {type: Object},
       metadata: {type: Object}
+    }
+  },
+  methods: {
+    formatDate(dateString) {
+      const date = dayjs(dateString);
+      return date.format('ddd MMM D, YYYY');
     }
   },
   beforeMount() {
@@ -40,11 +47,13 @@ export default {
         <div class="item-content">
           <ul class="item-content-ul">
             <li class="item-content-ul-li" v-for="property in metadata.display">
-              <span class="capitalize">{{ property }}</span>:<span class="content-value">{{ report[property] }}</span>
+              <span class="capitalize">{{ property }}:</span>
+              <span class="content-value" v-if="['reviewed', 'expiry'].includes(property)">{{ formatDate(report[property]) }}</span>
+              <span class="content-value" v-else>{{ report[property] }}</span>
             </li>
           </ul>
         </div>
-        <div class="item-footer">&nbsp;</div> <!-- Verdict: {{ report.verdict }} -->
+        <div class="item-footer">&nbsp;</div>
       </div>
     </div>
   </div>
