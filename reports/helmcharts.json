@@ -35,7 +35,7 @@
         "id": "2EE92717-42FF-4D50-83D7-2F6F9E252FFE",
         "environment": "",
         "createdOn": "2023-08-30 15:40:05",
-        "lastUpdated": "2023-09-05 09:45:16"
+        "lastUpdated": "2023-09-06 09:45:21"
     },
     {
         "chart": "traefik",
@@ -54,7 +54,7 @@
         "id": "568C31C6-B686-4631-82ED-D1AE7B4D3629",
         "environment": "",
         "createdOn": "2023-08-30 15:40:05",
-        "lastUpdated": "2023-09-05 09:45:17"
+        "lastUpdated": "2023-09-06 09:45:21"
     },
     {
         "chart": "kube-prometheus-stack",
@@ -93,5 +93,24 @@
         "environment": "",
         "createdOn": "2023-09-05 08:45:12",
         "lastUpdated": "2023-09-05 09:45:16"
+    },
+    {
+        "chart": "kube-prometheus-stack",
+        "namespace": "monitoring",
+        "installed": "48.2.2",
+        "latest": "50.3.1",
+        "appVersion": "",
+        "newestRepo": "prometheus",
+        "updated": "0001-01-01T00:00:00Z",
+        "deprecated": false,
+        "displayName": "HELM Repositories",
+        "cluster": "ss-ptl-00-aks",
+        "verdict": "upgrade",
+        "colorCode": "red",
+        "reportType": "table",
+        "id": "ccd24252-c122-4078-9afb-e5d58df46540",
+        "environment": "",
+        "createdOn": "2023-09-06 08:45:14",
+        "lastUpdated": "2023-09-06 09:45:20"
     }
 ]
