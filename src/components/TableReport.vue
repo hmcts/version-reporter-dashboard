@@ -14,7 +14,7 @@ export default {
       currentPage: 1,
       isFiltered: true,
       tableFilters: {
-        columns: {value: '', keys: ['title', 'repository','verdict', 'createdAt']}
+        columns: {value: '', keys: ['title', 'repository','verdict', 'createdAt', 'createdBy']}
       }
     };
   },
