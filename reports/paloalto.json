@@ -1,104 +1,9 @@
 [
     {
-        "id": "81a0c3e8-0a45-4c86-8da3-837d95817933",
+        "id": "1d8591f9-e243-4376-87ba-9246a2ef2732",
         "displayName": "Palo Alto Resources",
         "reportType": "card",
-        "lastUpdated": "01 Jan 2024 at 16:01:21 PM",
-        "resource": "panorama-prod-uks-0",
-        "latest": "11.0.2",
-        "releasedOn": "2023/06/28 10:13:43",
-        "installed": "11.0.2-h2",
-        "desired": "11.0.2",
-        "resourceType": "Panorama",
-        "colorCode": "green",
-        "verdict": "ok",
-        "environment": "prod",
-        "releaseNotes": "https://www.paloaltonetworks.com/documentation/11-0/pan-os/pan-os-release-notes",
-        "hotFixes": [
-            "11.0.2-h1"
-        ]
-    },
-    {
-        "id": "aa7e80f6-03ab-42b3-9080-dfb5e47ad8ed",
-        "displayName": "Palo Alto Resources",
-        "reportType": "card",
-        "lastUpdated": "01 Jan 2024 at 16:01:23 PM",
-        "resource": "hmcts-hub-prod-int-palo-vm-1",
-        "latest": "11.0.2",
-        "releasedOn": "2023/06/28 10:13:43",
-        "installed": "11.0.2-h2",
-        "desired": "11.0.2",
-        "resourceType": "Firewall",
-        "colorCode": "green",
-        "verdict": "ok",
-        "environment": "prod",
-        "releaseNotes": "https://www.paloaltonetworks.com/documentation/11-0/pan-os/pan-os-release-notes",
-        "hotFixes": [
-            "11.0.2-h1"
-        ]
-    },
-    {
-        "id": "47ab6d05-dbb6-4840-bda3-47d5fdc84165",
-        "displayName": "Palo Alto Resources",
-        "reportType": "card",
-        "lastUpdated": "01 Jan 2024 at 16:01:23 PM",
-        "resource": "hmcts-hub-nonprodi-palo-vm-1",
-        "latest": "11.0.2",
-        "releasedOn": "2023/06/28 10:13:43",
-        "installed": "11.0.2-h2",
-        "desired": "11.0.2",
-        "resourceType": "Firewall",
-        "colorCode": "green",
-        "verdict": "ok",
-        "environment": "prod",
-        "releaseNotes": "https://www.paloaltonetworks.com/documentation/11-0/pan-os/pan-os-release-notes",
-        "hotFixes": [
-            "11.0.2-h1"
-        ]
-    },
-    {
-        "id": "8359ef22-00e6-4501-93dd-e3130ae0b9fd",
-        "displayName": "Palo Alto Resources",
-        "reportType": "card",
-        "lastUpdated": "01 Jan 2024 at 16:01:23 PM",
-        "resource": "hmcts-hub-nonprodi-palo-vm-0",
-        "latest": "11.0.2",
-        "releasedOn": "2023/06/28 10:13:43",
-        "installed": "11.0.2-h2",
-        "desired": "11.0.2",
-        "resourceType": "Firewall",
-        "colorCode": "green",
-        "verdict": "ok",
-        "environment": "prod",
-        "releaseNotes": "https://www.paloaltonetworks.com/documentation/11-0/pan-os/pan-os-release-notes",
-        "hotFixes": [
-            "11.0.2-h1"
-        ]
-    },
-    {
-        "id": "3590f001-89d7-4b52-a320-8a373d53bb69",
-        "displayName": "Palo Alto Resources",
-        "reportType": "card",
-        "lastUpdated": "01 Jan 2024 at 16:01:23 PM",
-        "resource": "hmcts-hub-prod-int-palo-vm-0",
-        "latest": "11.0.2",
-        "releasedOn": "2023/06/28 10:13:43",
-        "installed": "11.0.2-h2",
-        "desired": "11.0.2",
-        "resourceType": "Firewall",
-        "colorCode": "green",
-        "verdict": "ok",
-        "environment": "prod",
-        "releaseNotes": "https://www.paloaltonetworks.com/documentation/11-0/pan-os/pan-os-release-notes",
-        "hotFixes": [
-            "11.0.2-h1"
-        ]
-    },
-    {
-        "id": "defbe962-4cd1-4347-90ba-56b04b4c5737",
-        "displayName": "Palo Alto Resources",
-        "reportType": "card",
-        "lastUpdated": "15 Jan 2024 at 05:39:43 AM",
+        "lastUpdated": "01 Feb 2024 at 16:00:12 PM",
         "resource": "panorama-sbox-uks-0",
         "latest": "11.0.2",
         "releasedOn": "2023/06/28 10:13:43",
@@ -114,10 +19,10 @@
         ]
     },
     {
-        "id": "f86f3f0e-f01c-4304-9669-d6cf9b30d977",
+        "id": "0888dba0-e1fb-4dc2-acc9-d6682534f09d",
         "displayName": "Palo Alto Resources",
         "reportType": "card",
-        "lastUpdated": "15 Jan 2024 at 05:39:44 AM",
+        "lastUpdated": "01 Feb 2024 at 16:00:14 PM",
         "resource": "hmcts-hub-sbox-int-palo-vm-1",
         "latest": "11.0.2",
         "releasedOn": "2023/06/28 10:13:43",
@@ -133,10 +38,10 @@
         ]
     },
     {
-        "id": "dc7b75f3-a3f8-4c57-b58b-de26d77c215d",
+        "id": "4f888b2f-fa61-46cc-b432-27e8c906b098",
         "displayName": "Palo Alto Resources",
         "reportType": "card",
-        "lastUpdated": "15 Jan 2024 at 05:39:44 AM",
+        "lastUpdated": "01 Feb 2024 at 16:00:14 PM",
         "resource": "hmcts-hub-sbox-int-palo-vm-0",
         "latest": "11.0.2",
         "releasedOn": "2023/06/28 10:13:43",
@@ -146,6 +51,101 @@
         "colorCode": "green",
         "verdict": "ok",
         "environment": "sbox",
+        "releaseNotes": "https://www.paloaltonetworks.com/documentation/11-0/pan-os/pan-os-release-notes",
+        "hotFixes": [
+            "11.0.2-h1"
+        ]
+    },
+    {
+        "id": "534f6e85-4bae-407d-8d6e-492d9ab1480f",
+        "displayName": "Palo Alto Resources",
+        "reportType": "card",
+        "lastUpdated": "01 Feb 2024 at 16:01:11 PM",
+        "resource": "panorama-prod-uks-0",
+        "latest": "11.0.2",
+        "releasedOn": "2023/06/28 10:13:43",
+        "installed": "11.0.2-h2",
+        "desired": "11.0.2",
+        "resourceType": "Panorama",
+        "colorCode": "green",
+        "verdict": "ok",
+        "environment": "prod",
+        "releaseNotes": "https://www.paloaltonetworks.com/documentation/11-0/pan-os/pan-os-release-notes",
+        "hotFixes": [
+            "11.0.2-h1"
+        ]
+    },
+    {
+        "id": "5b897243-0eb6-4e1f-9474-459c2c54261a",
+        "displayName": "Palo Alto Resources",
+        "reportType": "card",
+        "lastUpdated": "01 Feb 2024 at 16:01:13 PM",
+        "resource": "hmcts-hub-prod-int-palo-vm-1",
+        "latest": "11.0.2",
+        "releasedOn": "2023/06/28 10:13:43",
+        "installed": "11.0.2-h2",
+        "desired": "11.0.2",
+        "resourceType": "Firewall",
+        "colorCode": "green",
+        "verdict": "ok",
+        "environment": "prod",
+        "releaseNotes": "https://www.paloaltonetworks.com/documentation/11-0/pan-os/pan-os-release-notes",
+        "hotFixes": [
+            "11.0.2-h1"
+        ]
+    },
+    {
+        "id": "48252ce1-38f5-4cc5-898d-ef7d42a3c1a2",
+        "displayName": "Palo Alto Resources",
+        "reportType": "card",
+        "lastUpdated": "01 Feb 2024 at 16:01:13 PM",
+        "resource": "hmcts-hub-nonprodi-palo-vm-1",
+        "latest": "11.0.2",
+        "releasedOn": "2023/06/28 10:13:43",
+        "installed": "11.0.2-h2",
+        "desired": "11.0.2",
+        "resourceType": "Firewall",
+        "colorCode": "green",
+        "verdict": "ok",
+        "environment": "prod",
+        "releaseNotes": "https://www.paloaltonetworks.com/documentation/11-0/pan-os/pan-os-release-notes",
+        "hotFixes": [
+            "11.0.2-h1"
+        ]
+    },
+    {
+        "id": "ff27b61e-111a-47ab-acaf-114bcd989bd4",
+        "displayName": "Palo Alto Resources",
+        "reportType": "card",
+        "lastUpdated": "01 Feb 2024 at 16:01:13 PM",
+        "resource": "hmcts-hub-nonprodi-palo-vm-0",
+        "latest": "11.0.2",
+        "releasedOn": "2023/06/28 10:13:43",
+        "installed": "11.0.2-h2",
+        "desired": "11.0.2",
+        "resourceType": "Firewall",
+        "colorCode": "green",
+        "verdict": "ok",
+        "environment": "prod",
+        "releaseNotes": "https://www.paloaltonetworks.com/documentation/11-0/pan-os/pan-os-release-notes",
+        "hotFixes": [
+            "11.0.2-h1"
+        ]
+    },
+    {
+        "id": "f2ddc814-22f0-4c6c-9979-627a1fabed54",
+        "displayName": "Palo Alto Resources",
+        "reportType": "card",
+        "lastUpdated": "01 Feb 2024 at 16:01:13 PM",
+        "resource": "hmcts-hub-prod-int-palo-vm-0",
+        "latest": "11.0.2",
+        "releasedOn": "2023/06/28 10:13:43",
+        "installed": "11.0.2-h2",
+        "desired": "11.0.2",
+        "resourceType": "Firewall",
+        "colorCode": "green",
+        "verdict": "ok",
+        "environment": "prod",
         "releaseNotes": "https://www.paloaltonetworks.com/documentation/11-0/pan-os/pan-os-release-notes",
         "hotFixes": [
             "11.0.2-h1"
