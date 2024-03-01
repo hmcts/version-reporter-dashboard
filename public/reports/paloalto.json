@@ -1,9 +1,9 @@
 [
     {
-        "id": "0d40669f-b7af-44a4-89d1-d3e19144481b",
+        "id": "c914a83e-902d-4fe8-a695-0450dc3fc06e",
         "displayName": "Palo Alto Resources",
         "reportType": "card",
-        "lastUpdated": "14 Feb 2024 at 16:01:10 PM",
+        "lastUpdated": "01 Mar 2024 at 16:00:12 PM",
         "resource": "panorama-prod-uks-0",
         "latest": "11.0.2",
         "releasedOn": "2023/06/28 10:13:43",
@@ -19,10 +19,10 @@
         ]
     },
     {
-        "id": "02f7a08d-4f8e-4692-8256-4ee0413c3589",
+        "id": "2ae86579-1b4a-41fa-acb2-bf27997fe3ab",
         "displayName": "Palo Alto Resources",
         "reportType": "card",
-        "lastUpdated": "14 Feb 2024 at 16:01:11 PM",
+        "lastUpdated": "01 Mar 2024 at 16:00:14 PM",
         "resource": "hmcts-hub-prod-int-palo-vm-1",
         "latest": "11.0.2",
         "releasedOn": "2023/06/28 10:13:43",
@@ -38,10 +38,10 @@
         ]
     },
     {
-        "id": "6bdd9fce-1eb5-4f38-bb16-127b5b621dcb",
+        "id": "b2fe68ab-b49a-4278-a1f5-16efd3c11c76",
         "displayName": "Palo Alto Resources",
         "reportType": "card",
-        "lastUpdated": "14 Feb 2024 at 16:01:11 PM",
+        "lastUpdated": "01 Mar 2024 at 16:00:14 PM",
         "resource": "hmcts-hub-nonprodi-palo-vm-1",
         "latest": "11.0.2",
         "releasedOn": "2023/06/28 10:13:43",
@@ -57,10 +57,10 @@
         ]
     },
     {
-        "id": "5b05ae82-fec6-4005-aef5-063b0567c804",
+        "id": "72e0be7f-d123-4728-861c-f06701a97ea9",
         "displayName": "Palo Alto Resources",
         "reportType": "card",
-        "lastUpdated": "14 Feb 2024 at 16:01:11 PM",
+        "lastUpdated": "01 Mar 2024 at 16:00:14 PM",
         "resource": "hmcts-hub-nonprodi-palo-vm-0",
         "latest": "11.0.2",
         "releasedOn": "2023/06/28 10:13:43",
@@ -76,10 +76,10 @@
         ]
     },
     {
-        "id": "223b6e29-48fc-4c2f-a96f-0fc44ec65e79",
+        "id": "d088092a-3f2d-4dc5-84b0-a3ee611c31ee",
         "displayName": "Palo Alto Resources",
         "reportType": "card",
-        "lastUpdated": "14 Feb 2024 at 16:01:11 PM",
+        "lastUpdated": "01 Mar 2024 at 16:00:14 PM",
         "resource": "hmcts-hub-prod-int-palo-vm-0",
         "latest": "11.0.2",
         "releasedOn": "2023/06/28 10:13:43",
@@ -95,48 +95,10 @@
         ]
     },
     {
-        "id": "b332456a-ef5d-4df7-8911-c12d36f65c9b",
+        "id": "c21dcddb-cfab-42a5-9212-cc14657d919d",
         "displayName": "Palo Alto Resources",
         "reportType": "card",
-        "lastUpdated": "14 Feb 2024 at 16:01:21 PM",
-        "resource": "hmcts-hub-sbox-int-palo-vm-1",
-        "latest": "11.0.2",
-        "releasedOn": "2023/06/28 10:13:43",
-        "installed": "11.0.2-h2",
-        "desired": "11.0.2",
-        "resourceType": "Firewall",
-        "colorCode": "green",
-        "verdict": "ok",
-        "environment": "sbox",
-        "releaseNotes": "https://www.paloaltonetworks.com/documentation/11-0/pan-os/pan-os-release-notes",
-        "hotFixes": [
-            "11.0.2-h1"
-        ]
-    },
-    {
-        "id": "91b8b579-6895-4abc-8132-044c46d44c3a",
-        "displayName": "Palo Alto Resources",
-        "reportType": "card",
-        "lastUpdated": "14 Feb 2024 at 16:01:21 PM",
-        "resource": "hmcts-hub-sbox-int-palo-vm-0",
-        "latest": "11.0.2",
-        "releasedOn": "2023/06/28 10:13:43",
-        "installed": "11.0.2-h2",
-        "desired": "11.0.2",
-        "resourceType": "Firewall",
-        "colorCode": "green",
-        "verdict": "ok",
-        "environment": "sbox",
-        "releaseNotes": "https://www.paloaltonetworks.com/documentation/11-0/pan-os/pan-os-release-notes",
-        "hotFixes": [
-            "11.0.2-h1"
-        ]
-    },
-    {
-        "id": "6080ec6b-702e-42f7-9b78-81e0177fa8fd",
-        "displayName": "Palo Alto Resources",
-        "reportType": "card",
-        "lastUpdated": "14 Feb 2024 at 16:01:22 PM",
+        "lastUpdated": "01 Mar 2024 at 16:00:14 PM",
         "resource": "panorama-sbox-uks-0",
         "latest": "11.0.2",
         "releasedOn": "2023/06/28 10:13:43",
@@ -152,10 +114,10 @@
         ]
     },
     {
-        "id": "a14b14c2-6c4b-4fc2-91df-2c28a2a8d144",
+        "id": "3f8c6534-61bb-4670-9e08-e47d9c42e1e2",
         "displayName": "Palo Alto Resources",
         "reportType": "card",
-        "lastUpdated": "14 Feb 2024 at 16:01:24 PM",
+        "lastUpdated": "01 Mar 2024 at 16:00:16 PM",
         "resource": "hmcts-hub-sbox-int-palo-vm-1",
         "latest": "11.0.2",
         "releasedOn": "2023/06/28 10:13:43",
@@ -171,10 +133,10 @@
         ]
     },
     {
-        "id": "56c65e73-5b99-4b16-8e49-85ba8789f3c2",
+        "id": "5a3544e6-f0c4-49fc-924a-6214a485165a",
         "displayName": "Palo Alto Resources",
         "reportType": "card",
-        "lastUpdated": "14 Feb 2024 at 16:01:24 PM",
+        "lastUpdated": "01 Mar 2024 at 16:00:16 PM",
         "resource": "hmcts-hub-sbox-int-palo-vm-0",
         "latest": "11.0.2",
         "releasedOn": "2023/06/28 10:13:43",
